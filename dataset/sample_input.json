@@ -1,174 +1,113 @@
 {
-    "favorites": [
+    "favorites": {
+        "categories": [
+            "Classical philology",
+            "Criminal law",
+            "Antiques & Collectibles",
+            "Divorce",
+            "Transportation",
+            "World War, 1914-1918",
+            "Language Arts & Disciplines",
+            "Sacapulteco language",
+            "Mathematics",
+            "Biography & Autobiography"
+        ],
+        "authors": [
+            "Seth C. Schaefer",
+            "MARTINEZ RODRIGUEZ, JORGE LUIS",
+            "Martha Reguero",
+            "Melnick, Sergio",
+            "Ana María Narváez",
+            "Fernando Cuñado",
+            "Delia Ferreira Rubio",
+            "Juan Diego Pérez Moreno",
+            "Dag Heward-Mills",
+            "Raúl Rojas Soriano"
+        ]
+    },
+    "history": [
         {
-            "id": 185,
-            "title": "Hippopathology: a Systematic Treatise on the Disorders and Lameness of the Horse",
+            "id": 24,
+            "title": "Laboratory Experiments in Electrokinetic Densification of Mill Tailings",
             "autores": [
-                "William Percivall"
+                "Albert R. Rule",
+                "Carl Belser",
+                "Francis M. Carlson",
+                "Fred N. Kissell",
+                "Karl Clyde Dean",
+                "Laurance L. Oden",
+                "Parviz F. Rad",
+                "R. H. Sprute",
+                "Seth C. Schaefer",
+                "Verne E. Hooker",
+                "Walter K. Sawyer",
+                "Warren W. Krech",
+                "Boyd D. Nash",
+                "Carlon Sanford Land",
+                "Charles David Locke",
+                "Charles W. Clark",
+                "D. J. Kelsh",
+                "Frank A. Henderson",
+                "James R. Aggson",
+                "Richard C. Olson",
+                "Richard Havens",
+                "David L. Bickel",
+                "Kenneth E. Hjelmstad",
+                "Marshall O. Butler",
+                "Martin W. Glantz"
             ],
-            "fecha": "1871",
-            "imagen": "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "fecha": "1974",
+            "imagen": "http://books.google.com/books/content?id=UXhBERhmQcAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Horses"
+                "Alloys"
             ]
         },
         {
-            "id": 171,
-            "title": "Dona i literatura",
+            "id": 89,
+            "title": "The Tinguian",
             "autores": [
-                "Ferran Carbó"
+                "Fay-Cooper Cole"
             ],
-            "fecha": "1997",
-            "imagen": "http://books.google.com/books/content?id=tfckUOygskkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "1922",
+            "imagen": "http://books.google.com/books/content?id=RAo_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "categorias": [
-                "Women authors"
+                "Anthropology"
             ]
         },
         {
-            "id": 106,
-            "title": "Revista Estudios Paraguayos 1990 a 1995 - N°1 y 2 - Vol. XVIII",
-            "autores": [
-                "CEADUC"
-            ],
-            "fecha": "2019-08-19",
-            "imagen": "http://books.google.com/books/content?id=FEWrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Antiques & Collectibles"
-            ]
-        },
-        {
-            "id": 25,
-            "title": "Annual Report on the Vital Statistics of Massachusetts",
+            "id": 70,
+            "title": "Reverse Acronyms, Initialisms, & Abbreviations Dictionary",
             "autores": [
                 "Anónimo"
             ],
-            "fecha": "1910",
-            "imagen": "http://books.google.com/books/content?id=0bcwAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "fecha": "1985",
+            "imagen": "http://books.google.com/books/content?id=YoM7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "categorias": [
-                "Divorce"
+                "Reference"
             ]
         },
         {
-            "id": 66,
-            "title": "EL CUERPO EN LA LENGUA",
+            "id": 191,
+            "title": "U-9 Fantasma de los mares",
             "autores": [
-                "SUSANA CUEVAS SUAREZ; FRANCISCO J PERAL RABASA; TA."
+                "Johannes Spiess"
             ],
-            "fecha": "2023-07-30",
-            "imagen": "http://books.google.com/books/content?id=N3HWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "Sin información.",
+            "imagen": "http://books.google.com/books/content?id=cl7jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Education"
+                "Biography & Autobiography"
             ]
         },
         {
-            "id": 26,
-            "title": "Mineral-resource Assessments in Alaska",
+            "id": 73,
+            "title": "Tax on Capital, and fixed duty on corn. [Signed: T. A.]",
             "autores": [
-                "Wallace Hall Campbell"
+                "T. A."
             ],
-            "fecha": "1984",
-            "imagen": "http://books.google.com/books/content?id=zetAuGl1LyMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "1833",
+            "imagen": "http://books.google.com/books/content?id=uUNVAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Cosmochronology"
-            ]
-        },
-        {
-            "id": 91,
-            "title": "Kuo Li T'ai-wan Ta Hsüeh Li Hsüeh Yüan Chih Wu Hsüeh Hsi Yen Chiu Pao Kao",
-            "autores": [
-                "Anónimo"
-            ],
-            "fecha": "1990",
-            "imagen": "http://books.google.com/books/content?id=8MAlAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Botany"
-            ]
-        },
-        {
-            "id": 87,
-            "title": "Anthropometric Survey of the Inmates of Asylums in Scotland ...",
-            "autores": [
-                "James Fowler Tocher"
-            ],
-            "fecha": "1905",
-            "imagen": "http://books.google.com/books/content?id=a2fzAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Anthropometry"
-            ]
-        },
-        {
-            "id": 180,
-            "title": "Were I But His Own Wife",
-            "autores": [
-                "Mrs. E. A. Parkhurst"
-            ],
-            "fecha": "1865",
-            "imagen": "http://books.google.com/books/content?id=4XoEKrXq6ZYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Songs with piano"
-            ]
-        },
-        {
-            "id": 103,
-            "title": "Introducción a la Psicometría",
-            "autores": [
-                "Muñiz Fernández, José"
-            ],
-            "fecha": "2018-03-22",
-            "imagen": "http://books.google.com/books/content?id=u5qbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Psychology"
-            ]
-        },
-        {
-            "id": 52,
-            "title": "De re publica Hispaniae",
-            "autores": [
-                "Francisco José Aranda Pérez",
-                "José Damião Rodrigues"
-            ],
-            "fecha": "2008",
-            "imagen": "http://books.google.com/books/content?id=LK5XIo03Hw0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Education"
-            ]
-        },
-        {
-            "id": 154,
-            "title": "Trabajadores Sociales Del Instituto Catalan de Salud. Temario. E-book",
-            "autores": [
-                "Isabel Trigueros"
-            ],
-            "fecha": "2002-06-17",
-            "imagen": "http://books.google.com/books/content?id=EYoCCeluJf4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Education"
-            ]
-        },
-        {
-            "id": 135,
-            "title": "Mentisán, paracetamol o wira wira?",
-            "autores": [
-                "Ingrid Tapia Montecinos",
-                "Ricardo Royder Yáñez",
-                "Teodora Cruz Catata"
-            ],
-            "fecha": "2006",
-            "imagen": "http://books.google.com/books/content?id=akUvgUotbYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Social Science"
-            ]
-        },
-        {
-            "id": 31,
-            "title": "An Essay on Disestablishment and the Voluntary Principle in Religion",
-            "autores": [
-                "W. Piercy Dimes"
-            ],
-            "fecha": "1874",
-            "imagen": "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Church and state"
+                "Taxation"
             ]
         },
         {
@@ -182,188 +121,54 @@
             "categorias": [
                 "Language Arts & Disciplines"
             ]
-        }
-    ],
-    "history": [
-        {
-            "id": 53,
-            "title": "Re(gener)ando construcciones y borramientos",
-            "autores": [
-                "Anónimo"
-            ],
-            "fecha": "2004",
-            "imagen": "http://books.google.com/books/content?id=3AB86pZ6MtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Art"
-            ]
         },
         {
-            "id": 183,
-            "title": "The Science and Practice of Surgery",
+            "id": 63,
+            "title": "Beti gorriak! Patxaran, Osasuna ta San Fermin",
             "autores": [
-                "William Hugh Cowie Romanis",
-                "Philip Henry Mitchiner"
+                "Aimar Goenaga"
             ],
-            "fecha": "1933",
-            "imagen": "http://books.google.com/books/content?id=7YqgRAVIRxQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Surgery"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "El mar que nos trajo",
-            "autores": [
-                "Griselda Gambaro"
-            ],
-            "fecha": "2006",
-            "imagen": "http://books.google.com/books/content?id=gvB5TjXqeDIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Argentina"
-            ]
-        },
-        {
-            "id": 164,
-            "title": "Riding The Bullet",
-            "autores": [
-                "Stephen King"
-            ],
-            "fecha": "2013-05-23",
-            "imagen": "http://books.google.com/books/content?id=OFmF6CRmev4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "2013-02-07",
+            "imagen": "http://books.google.com/books/content?id=8yQqAw9PujgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
                 "Fiction"
             ]
         },
         {
-            "id": 197,
-            "title": "Elaboración y modificación de imágenes u otros elementos gráficos",
-            "autores": [
-                "PORTUGAL IGLESIAS, RAQUEL"
-            ],
-            "fecha": "2017-03-01",
-            "imagen": "http://books.google.com/books/content?id=T9XLDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Education"
-            ]
-        },
-        {
-            "id": 174,
-            "title": "Josep Puig i Cadafalch y la búsqueda de la modernidad",
-            "autores": [
-                "Víctor Gómez"
-            ],
-            "fecha": "2019-05-24",
-            "imagen": "http://books.google.com/books/content?id=o4wFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Education"
-            ]
-        },
-        {
-            "id": 49,
-            "title": "Sinfonía en re mayor (ca. 1815)",
-            "autores": [
-                "Ramón Carnicer y Batlle"
-            ],
-            "fecha": "Sin información.",
-            "imagen": "http://books.google.com/books/content?id=pOvxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Music"
-            ]
-        },
-        {
-            "id": 56,
-            "title": "Re-pensar la intervención social",
+            "id": 202,
+            "title": "The Constitutional Year Book",
             "autores": [
                 "Anónimo"
             ],
-            "fecha": "2007",
-            "imagen": "http://books.google.com/books/content?id=6sHU377d9-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "1919",
+            "imagen": "http://books.google.com/books/content?id=XzcbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "categorias": [
-                "Social Science"
+                "Great Britain"
             ]
         },
         {
-            "id": 94,
-            "title": "Report ...",
+            "id": 83,
+            "title": "Murder in Siena",
             "autores": [
-                "Iowa. Bureau of Labor"
+                "T A Williams"
             ],
-            "fecha": "1914",
-            "imagen": "http://books.google.com/books/content?id=Y8YzAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "fecha": "2023-08-01",
+            "imagen": "http://books.google.com/books/content?id=bxrEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Iowa"
+                "Fiction"
             ]
         },
         {
-            "id": 125,
-            "title": "Violencia ¿esencia o construcción? ¿victimas o victimarios?",
+            "id": 193,
+            "title": "Leones. Las historias de la U más exitosa de todos los tiempos",
             "autores": [
-                "María Cristina Kalbermatter"
+                "Gazi Jalil",
+                "Rodrigo Fluxá"
             ],
-            "fecha": "2016",
-            "imagen": "http://books.google.com/books/content?id=Qp-6Wfdiv_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "2013-04-06",
+            "imagen": "http://books.google.com/books/content?id=tfMzYZo3PoYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Psychology"
-            ]
-        },
-        {
-            "id": 143,
-            "title": "O'Malley V. 6323 North LaCrosse Avenue, Chicago, Illinois, 60646, Cook County",
-            "autores": [
-                "Anónimo"
-            ],
-            "fecha": "1993",
-            "imagen": "http://books.google.com/books/content?id=JvlMgiD_5HUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Legal briefs"
-            ]
-        },
-        {
-            "id": 155,
-            "title": "Psicología Oscura - Secretos para Analizar e Influenciar a Cualquiera",
-            "autores": [
-                "Bagas Bantara"
-            ],
-            "fecha": "2023-10-10",
-            "imagen": "http://books.google.com/books/content?id=Au3bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Psychology"
-            ]
-        },
-        {
-            "id": 36,
-            "title": "The Journal of Education",
-            "autores": [
-                "Anónimo"
-            ],
-            "fecha": "1915",
-            "imagen": "http://books.google.com/books/content?id=VScnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Education"
-            ]
-        },
-        {
-            "id": 35,
-            "title": "Āgama Tīrtha",
-            "autores": [
-                "Christiaan Hooykaas"
-            ],
-            "fecha": "1964",
-            "imagen": "http://books.google.com/books/content?id=XqnfC6NA1vcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "categorias": [
-                "Bali (Indonesia)"
-            ]
-        },
-        {
-            "id": 84,
-            "title": "Captain America By Ta-Nehisi Coates Vol. 3",
-            "autores": [
-                "Ta-Nehisi Coates"
-            ],
-            "fecha": "2020-03-25",
-            "imagen": "http://books.google.com/books/content?id=rhnFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Comics & Graphic Novels"
+                "Literary Collections"
             ]
         }
     ]

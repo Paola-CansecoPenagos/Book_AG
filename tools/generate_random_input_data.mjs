@@ -1,15 +1,39 @@
 /**
  * Genera datos de entrada aleatorios para entorno probar :)
- * usa node tools/generate_random_input_data.mjs 10
- * Donde 10 es el número de libros que se van a generar para crear el input falso.
+ * usa node tools/generate_random_input_data.mjs <history> <categories> <authors>
+ * Donde <history> corresponde a la cantidad de libros para añadir a historial, por defecto 10
+ * Donde <categories> corresponde a la cantidad de categorias para añadir a favoritos, por defecto <history>
+ * Donde <authors> corresponde a la cantidad de autores para añadir a favoritos, por defecto <categories>
+ * Ejemplo:
+ * node tools/generate_random_input_data.mjs 12 15 20
  */
 
-const amount_data_to_generate = parseInt(process.argv[process.argv.length - 1])
+const history_amount = process.argv.length >= 3 ?
+    !isNaN(parseInt(process.argv[2])) ?
+        parseInt(process.argv[2]) :
+        10 :
+    10;
 
-import data from '../dataset/cleareddata.json' assert {type: 'json'}
+const categories_amount = process.argv.length >= 4 ?
+    !isNaN(parseInt(process.argv[3])) ?
+        parseInt(process.argv[3]) :
+        history_amount :
+    history_amount;
+
+const authors_amount = process.argv.length >= 5 ?
+    !isNaN(parseInt(process.argv[4])) ?
+        parseInt(process.argv[4]) :
+        categories_amount :
+    categories_amount;
+
 import fs from 'fs'
 
-function generarNumerosAleatorios(cantidad, min, max) {
+import books from '../dataset/cleareddata.json' assert {type: 'json'}
+import categories from '../dataset/categories.json' assert{type: 'json'}
+import authors from '../dataset/authors.json' assert{type: 'json'}
+
+
+function randGroup(cantidad, min, max) {
 
     let numeros = [];
     for (let i = min; i <= max; i++) {
@@ -30,20 +54,29 @@ function generarNumerosAleatorios(cantidad, min, max) {
     return numerosAleatorios;
 }
 
-const random_indexes = generarNumerosAleatorios(amount_data_to_generate * 2, 0, data.length - 1)
+const random_books_indexes = randGroup(history_amount, 0, books.length - 1)
+const random_categories_indexes = randGroup(categories_amount, 0, categories.length - 1)
+const random_author_indexes = randGroup(authors_amount, 0, authors.length - 1)
 
-const favorites = []
-const history = []
+const categories_list = []
+const authors_list = []
+const history_list = []
 
-random_indexes.map((ind, index)=>{
-    if(index % 2){
-        favorites.push(data[ind])
-    }else{
-        history.push(data[ind])
-    }
+random_books_indexes.map((ind, index) => {
+    history_list.push(books[ind])
 })
+
+random_categories_indexes.map((ind, index) => {
+    categories_list.push(categories[ind])
+})
+
+random_author_indexes.map((ind, index) => {
+    authors_list.push(authors[ind])
+})
+
+const favorites = { categories: categories_list, authors: authors_list }
 
 fs.writeFileSync('./dataset/sample_input.json', JSON.stringify({
     favorites: favorites,
-    history: history
+    history: history_list
 }, null, 4), 'utf8');
