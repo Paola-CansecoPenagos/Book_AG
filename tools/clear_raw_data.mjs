@@ -2,7 +2,7 @@
  * Este script para limpiar y depurar datos de las colecciones en crudo del API
  */
 
-import datas from '../dataset/sampledata.json' assert {type:'json'};
+import datas from '../dataset/raw.json' assert {type:'json'};
 import fs from 'fs';
 
 let id = 0;
@@ -48,8 +48,8 @@ datas.map((data, index) => {
     });
 });
 
-fs.writeFileSync('../dataset/cleareddata.json', JSON.stringify(datosLimpios, null, 4), 'utf8');
-fs.writeFileSync('../dataset/categories.json', JSON.stringify([...lista_categorias], null, 4), 'utf8');
-fs.writeFileSync('../dataset/authors.json', JSON.stringify([...lista_autores], null, 4), 'utf8');
+fs.writeFileSync('./dataset/cleareddata.json', JSON.stringify(datosLimpios, null, 4), 'utf8');
+fs.writeFileSync('./dataset/categories.json', JSON.stringify([...lista_categorias], null, 4), 'utf8');
+fs.writeFileSync('./dataset/authors.json', JSON.stringify([...lista_autores], null, 4), 'utf8');
 
 console.log("Datos limpios guardados en cleareddata.json.");
