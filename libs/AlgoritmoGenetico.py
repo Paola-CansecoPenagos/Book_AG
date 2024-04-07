@@ -3,6 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import os
 
+
 class AlgoritmoGenetico:
     def __init__(self):
         print("Importando dataset...")
@@ -47,7 +48,9 @@ class AlgoritmoGenetico:
         self.favorites_authors = input_data["favorites"]["authors"]
         self.readed_categories = []
         self.readed_authors = []
+        self.id_readed = []
         for book in input_data["history"]:
+            self.id_readed.append(book["id"])
             self.readed_authors.extend(book["autores"])
             self.readed_categories.extend(book["categorias"])
 
@@ -77,6 +80,7 @@ class AlgoritmoGenetico:
         best = None
         worst = None
         total_weight = 0
+        ids_checked = []
 
         for individual in gen_list:
             individual_as_index = int(str(individual), 2)
@@ -86,12 +90,23 @@ class AlgoritmoGenetico:
                 # Se puede comentar esta línea si se quiere omitir los individuos fuera de rango. (Para evitar que la gráfica del peor individuo llegue a 0 tan rápido)
                 logs.append({"gen": individual,
                             "weight": individual_weight})
-                #print("Skipping due to index being larger than the dataset...")
+                # print("Skipping due to index being larger than the dataset...")
                 continue
 
             current_individual_authors = self.data[individual_as_index]["autores"]
             current_individual_categories = self.data[individual_as_index]["categorias"]
-
+            current_individual_id = self.data[individual_as_index]["autores"]
+            
+            if (current_individual_id in ids_checked):
+                # El libro que checamos ya está calculado, podemos omitirlo para evitar libros duplicados en el resultado
+                continue
+            
+            if(current_individual_id in self.id_readed):
+                # El libro que estamos calculando ya es un libro que el usuario ha leido, omitimos para no recomenndar un libro del usuario.
+                continue
+            
+            ids_checked.append(current_individual_id)
+            
             if any(item in self.readed_authors for item in current_individual_authors):
                 individual_weight += 1
             if any(item in self.favorites_authors for item in current_individual_authors):
@@ -156,37 +171,40 @@ class AlgoritmoGenetico:
             genetic_chain[bit] = another_genetic_chain[bit]
 
         return "".join(genetic_chain)
-    
+
     def search_from_index(self, books_list):
         result = []
-        
+
         for book_index_bin in books_list:
             individual_as_index = int(str(book_index_bin["gen"]), 2)
-            
+
             if (individual_as_index >= len(self.data)):
                 print(f"Saltando libro {book_index_bin}, fuera de rango.")
                 continue
-            
+
             res = self.data[individual_as_index]
             res["weight"] = book_index_bin["weight"]
             result.append(res)
-            
-            
+
         return result
 
     def render_graphics(self):
-        
+
         average_values = [entry['avarage'] for entry in self.all_records]
         best_weights = [entry['best']['weight'] for entry in self.all_records]
-        worst_weights = [entry['worst']['weight'] for entry in self.all_records]
-        
+        worst_weights = [entry['worst']['weight']
+                         for entry in self.all_records]
+
         indices = list(range(len(self.all_records)))
 
         plt.figure(figsize=(12, 6))
         # Crear la gráfica
-        plt.plot(indices, average_values, marker='o', linestyle='-', label='Pesos promedios', color='blue')
-        plt.plot(indices, best_weights, marker='o', linestyle='-', label='Mejor Peso', color='green')
-        plt.plot(indices, worst_weights, marker='o', linestyle='-', label='Peor Peso', color='red')
+        plt.plot(indices, average_values, marker='o', linestyle='-',
+                 label='Pesos promedios', color='blue')
+        plt.plot(indices, best_weights, marker='o',
+                 linestyle='-', label='Mejor Peso', color='green')
+        plt.plot(indices, worst_weights, marker='o',
+                 linestyle='-', label='Peor Peso', color='red')
 
         # Añadir etiquetas y título
         plt.xlabel('Generación')
@@ -250,8 +268,8 @@ class AlgoritmoGenetico:
 
             result["stats"]["best"] = best_individual
             self.all_records.append(result["stats"])
-            
+
             if (len(population) > self.max_population):
                 population = self.poda(population)
-                
+
         return self.search_from_index(sorted(result['logs'], key=lambda x: x['weight'], reverse=True)[:max_result])

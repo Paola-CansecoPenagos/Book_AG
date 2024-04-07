@@ -1,93 +1,210 @@
 {
     "favorites": {
         "categories": [
-            "Classical philology",
-            "Criminal law",
-            "Antiques & Collectibles",
-            "Divorce",
+            "Women authors",
+            "Carbon compounds",
+            "Songs with piano",
+            "Baja California (Mexico : Peninsula)",
+            "Araucanía (Chile)",
+            "Dret penal",
+            "Natural history",
+            "Associations, institutions, etc",
+            "Taxation",
+            "Reference",
+            "Agriculture",
+            "South America",
+            "Names, Geographical",
+            "Cuban fiction",
+            "Knowledge representation (Information theory)",
+            "Science",
+            "Research",
+            "Philosophy",
             "Transportation",
-            "World War, 1914-1918",
-            "Language Arts & Disciplines",
-            "Sacapulteco language",
-            "Mathematics",
-            "Biography & Autobiography"
+            "Indians, Treatment of",
+            "Self-Help",
+            "Mormon Church",
+            "Bali (Indonesia)",
+            "Church and state",
+            "Juvenile Nonfiction"
         ],
         "authors": [
-            "Seth C. Schaefer",
-            "MARTINEZ RODRIGUEZ, JORGE LUIS",
-            "Martha Reguero",
-            "Melnick, Sergio",
-            "Ana María Narváez",
-            "Fernando Cuñado",
-            "Delia Ferreira Rubio",
-            "Juan Diego Pérez Moreno",
-            "Dag Heward-Mills",
-            "Raúl Rojas Soriano"
+            "Ricardo Gánem Corvera",
+            "Odlanyer Hern‡ndez de Lara",
+            "Charles David Locke",
+            "Mariela Michelena",
+            "Guy de Maupassant",
+            "Rebecca Weber",
+            "Comisión Representativa Ante Organismos de Seguridad Social ",
+            "María Luisa Balaguer Callejón",
+            "José Ángel Mañas",
+            "Marc Myers",
+            "Roz Chast",
+            "Miguel Ángel Encabo Vera",
+            "Oswaldo Hidalgo Solís",
+            "Martin W. Glantz",
+            "Paul Howe",
+            "Aimar Goenaga",
+            "Dakota Dulton",
+            "British Council",
+            "Ta-Pei Cheng",
+            "Warren W. Krech",
+            "Daniel A. Di Liscia",
+            "José Fernandez",
+            "Gustavo Villén",
+            "Maximino Gómez Álvarez",
+            "Marcia E. Epler"
         ]
     },
     "history": [
         {
-            "id": 24,
-            "title": "Laboratory Experiments in Electrokinetic Densification of Mill Tailings",
+            "id": "400",
+            "title": "Ilustracion apologetica al primero y segundo tomo del Theatro critico, donde se notan mas de quatrocientos descuidos al autor del Anti-Theatro",
             "autores": [
-                "Albert R. Rule",
-                "Carl Belser",
-                "Francis M. Carlson",
-                "Fred N. Kissell",
-                "Karl Clyde Dean",
-                "Laurance L. Oden",
-                "Parviz F. Rad",
-                "R. H. Sprute",
-                "Seth C. Schaefer",
-                "Verne E. Hooker",
-                "Walter K. Sawyer",
-                "Warren W. Krech",
-                "Boyd D. Nash",
-                "Carlon Sanford Land",
-                "Charles David Locke",
-                "Charles W. Clark",
-                "D. J. Kelsh",
-                "Frank A. Henderson",
-                "James R. Aggson",
-                "Richard C. Olson",
-                "Richard Havens",
-                "David L. Bickel",
-                "Kenneth E. Hjelmstad",
-                "Marshall O. Butler",
-                "Martin W. Glantz"
+                "Benito Jerónimo Feijoo"
             ],
-            "fecha": "1974",
-            "imagen": "http://books.google.com/books/content?id=UXhBERhmQcAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "1769",
+            "imagen": "http://books.google.com/books/content?id=_vYAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Alloys"
+                "Spanish drama"
             ]
         },
         {
-            "id": 89,
-            "title": "The Tinguian",
+            "id": "69",
+            "title": "Ta'Mara's Divine Creation",
             "autores": [
-                "Fay-Cooper Cole"
+                "Ta'Mara T. Beaulieu"
             ],
-            "fecha": "1922",
-            "imagen": "http://books.google.com/books/content?id=RAo_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "fecha": "2022-05-02",
+            "imagen": "http://books.google.com/books/content?id=Gt9tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Anthropology"
+                "Religion"
             ]
         },
         {
-            "id": 70,
-            "title": "Reverse Acronyms, Initialisms, & Abbreviations Dictionary",
+            "id": "336",
+            "title": "Spanish Grammar Made Easy",
+            "autores": [
+                "Mike Zollo",
+                "Allan Wesson"
+            ],
+            "fecha": "2014-04-08",
+            "imagen": "http://books.google.com/books/content?id=4PpQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Foreign Language Study"
+            ]
+        },
+        {
+            "id": "134",
+            "title": "Infierno o Paraíso. 20 claves para lo que resta del siglo XXI",
+            "autores": [
+                "Melnick, Sergio"
+            ],
+            "fecha": "2013-09-01",
+            "imagen": "http://books.google.com/books/content?id=ea2sAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Literary Collections"
+            ]
+        },
+        {
+            "id": "199",
+            "title": "Technical Report",
+            "autores": [
+                "Aeronautical Research Council (Great Britain)"
+            ],
+            "fecha": "1914",
+            "imagen": "http://books.google.com/books/content?id=nep-AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "categorias": [
+                "Aeronautics"
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Gentes de mar en Cantabria",
+            "autores": [
+                "José Ortega Valcárcel"
+            ],
+            "fecha": "1996",
+            "imagen": "http://books.google.com/books/content?id=ZBkU_iwLuSQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "History"
+            ]
+        },
+        {
+            "id": "142",
+            "title": "Bolívar y la emancipación de Sur-América",
+            "autores": [
+                "Daniel Florencio O'Leary"
+            ],
+            "fecha": "1916",
+            "imagen": "#",
+            "categorias": [
+                "America del Sur - Historia - Guerras de Independencia, 1806-1830"
+            ]
+        },
+        {
+            "id": "306",
+            "title": "El secado de sólidos en la industria química",
+            "autores": [
+                "G. Nonhebel",
+                "A. A. H. Moss"
+            ],
+            "fecha": "1979",
+            "imagen": "http://books.google.com/books/content?id=i-xjzo6i8ngC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Science"
+            ]
+        },
+        {
+            "id": "368",
+            "title": "Metodología y técnicas de investigación en ciencias sociales",
+            "autores": [
+                "Felipe Pardinas"
+            ],
+            "fecha": "1989",
+            "imagen": "http://books.google.com/books/content?id=PDqKweTKbhUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Social sciences"
+            ]
+        },
+        {
+            "id": "143",
+            "title": "O'Malley V. 6323 North LaCrosse Avenue, Chicago, Illinois, 60646, Cook County",
             "autores": [
                 "Anónimo"
             ],
-            "fecha": "1985",
-            "imagen": "http://books.google.com/books/content?id=YoM7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "fecha": "1993",
+            "imagen": "http://books.google.com/books/content?id=JvlMgiD_5HUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "categorias": [
-                "Reference"
+                "Legal briefs"
             ]
         },
         {
-            "id": 191,
+            "id": "113",
+            "title": "Arqueolog’a precolombina en Cuba y Argentina: esbozos desde la periferia",
+            "autores": [
+                "Ana Mar’a Rocchietti",
+                "Odlanyer Hern‡ndez de Lara"
+            ],
+            "fecha": "2014",
+            "imagen": "http://books.google.com/books/content?id=5qFFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "History"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Informe Del Seminario Regional Sobre la Seguridad en El Mar Para la Pesca Artesanal Y en Pequena Escala en America Latina Y El Caribe",
+            "autores": [
+                "Food and Agriculture Organization of the United Nations"
+            ],
+            "fecha": "2008-02-28",
+            "imagen": "http://books.google.com/books/content?id=EsTFuYqz_6YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Business & Economics"
+            ]
+        },
+        {
+            "id": "191",
             "title": "U-9 Fantasma de los mares",
             "autores": [
                 "Johannes Spiess"
@@ -99,76 +216,89 @@
             ]
         },
         {
-            "id": 73,
-            "title": "Tax on Capital, and fixed duty on corn. [Signed: T. A.]",
+            "id": "177",
+            "title": "What I Saw of the War",
             "autores": [
-                "T. A."
-            ],
-            "fecha": "1833",
-            "imagen": "http://books.google.com/books/content?id=uUNVAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Taxation"
-            ]
-        },
-        {
-            "id": 117,
-            "title": "A Theory of Semiotics",
-            "autores": [
-                "Umberto Eco"
-            ],
-            "fecha": "1979",
-            "imagen": "http://books.google.com/books/content?id=BoXO4ItsuaMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Language Arts & Disciplines"
-            ]
-        },
-        {
-            "id": 63,
-            "title": "Beti gorriak! Patxaran, Osasuna ta San Fermin",
-            "autores": [
-                "Aimar Goenaga"
-            ],
-            "fecha": "2013-02-07",
-            "imagen": "http://books.google.com/books/content?id=8yQqAw9PujgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "categorias": [
-                "Fiction"
-            ]
-        },
-        {
-            "id": 202,
-            "title": "The Constitutional Year Book",
-            "autores": [
-                "Anónimo"
+                "John H. Atwood"
             ],
             "fecha": "1919",
-            "imagen": "http://books.google.com/books/content?id=XzcbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "imagen": "http://books.google.com/books/content?id=n1H7j4mZt2wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "categorias": [
-                "Great Britain"
+                "World War, 1914-1918"
             ]
         },
         {
-            "id": 83,
-            "title": "Murder in Siena",
+            "id": "322",
+            "title": "Scrum",
             "autores": [
-                "T A Williams"
+                "Jeff Sutherland"
             ],
-            "fecha": "2023-08-01",
-            "imagen": "http://books.google.com/books/content?id=bxrEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "2021-05",
+            "imagen": "http://books.google.com/books/content?id=wyevAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "categorias": [
+                "Business & Economics"
+            ]
+        },
+        {
+            "id": "135",
+            "title": "Mentisán, paracetamol o wira wira?",
+            "autores": [
+                "Ingrid Tapia Montecinos",
+                "Ricardo Royder Yáñez",
+                "Teodora Cruz Catata"
+            ],
+            "fecha": "2006",
+            "imagen": "http://books.google.com/books/content?id=akUvgUotbYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Social Science"
+            ]
+        },
+        {
+            "id": "366",
+            "title": "Notas del Más Allá",
+            "autores": [
+                "DANIEL GUEVARA"
+            ],
+            "fecha": "2022-04-12",
+            "imagen": "http://books.google.com/books/content?id=SAxqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
                 "Fiction"
             ]
         },
         {
-            "id": 193,
-            "title": "Leones. Las historias de la U más exitosa de todos los tiempos",
+            "id": "278",
+            "title": "El ingreso a la escritura y a las culturas de lo escrito",
             "autores": [
-                "Gazi Jalil",
-                "Rodrigo Fluxá"
+                "Ferreiro, Emilia"
             ],
-            "fecha": "2013-04-06",
-            "imagen": "http://books.google.com/books/content?id=tfMzYZo3PoYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "fecha": "2013-08-22",
+            "imagen": "http://books.google.com/books/content?id=nc-TAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "categorias": [
-                "Literary Collections"
+                "Education"
+            ]
+        },
+        {
+            "id": "75",
+            "title": "Soil Survey, Bolivar County, Mississippi",
+            "autores": [
+                "G. E. Rogers"
+            ],
+            "fecha": "1958",
+            "imagen": "http://books.google.com/books/content?id=le_aSvKDNtYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "categorias": [
+                "Soil surveys"
+            ]
+        },
+        {
+            "id": "390",
+            "title": "Teoría de la unión de los 5 continentes",
+            "autores": [
+                "Oswaldo Hidalgo Solís"
+            ],
+            "fecha": "2021-11-18",
+            "imagen": "http://books.google.com/books/content?id=LvFPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "categorias": [
+                "Political Science"
             ]
         }
     ]

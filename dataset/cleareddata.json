@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "title": "Gentes de mar en Cantabria",
         "autores": [
             "José Ortega Valcárcel"
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "title": "El mar que nos trajo",
         "autores": [
             "Griselda Gambaro"
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "title": "Informe Del Seminario Regional Sobre la Seguridad en El Mar Para la Pesca Artesanal Y en Pequena Escala en America Latina Y El Caribe",
         "autores": [
             "Food and Agriculture Organization of the United Nations"
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "title": "KAYAKISTA DE MAR, EL. Guía completa para el palista en mar abierto.",
         "autores": [
             "David Seidman"
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "title": "La energía que viene del mar",
         "autores": [
             "Fernanda Miguélez Pose"
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "title": "Catalogo ilustrado de moluscos del Golfo de Mexico y Mar Caribe",
         "autores": [
             "Antonio García-Cubas",
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": "7",
         "title": "Salida al Mar",
         "autores": [
             "Mariana Hamicha"
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": "8",
         "title": "Mar textil fragmentado",
         "autores": [
             "Jaime B. Rosa"
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": "9",
         "title": "Derecho del mar boletín, No.62",
         "autores": [
             "United Nations Office of Legal Affairs"
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": "10",
         "title": "Europa S.A",
         "autores": [
             "Belén Balanyá"
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": "11",
         "title": "YO SA",
         "autores": [
             "BARRIE PEARSON"
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": "12",
         "title": "La familia Franco S.A.",
         "autores": [
             "Mariano Sánchez Soler"
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": "13",
         "title": "SA CHE, EL FENG SHUI TIBETANO",
         "autores": [
             "NIDA CHEGNATSANG"
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": "14",
         "title": "Franquismo S.A.",
         "autores": [
             "Antonio Maestre"
@@ -169,7 +169,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": "15",
         "title": "Amantes S.A.",
         "autores": [
             "Barbara Ricch"
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": "16",
         "title": "Yo, S.A.",
         "autores": [
             "Gene Simmons"
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": "17",
         "title": "Xtz'ilb'al rix li aatinak sa' Q'eqchi'",
         "autores": [
             "Sergio Caz Cho"
@@ -205,7 +205,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": "18",
         "title": "Ma-Má",
         "autores": [
             "Cristina Grau"
@@ -217,7 +217,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": "19",
         "title": "La Pragmatica que su Magestad ma[n]da que se imprima sobre los vagamundos, ladrones, blasphemos, rufianes, testigos falsos, inducidores y casados dos vezes, y otras cosas",
         "autores": [
             "Anónimo"
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": "20",
         "title": "A Grammar of Ma'di",
         "autores": [
             "Mairi Blackings",
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "id": 21,
+        "id": "21",
         "title": "Mystery of Ma's Ugly Pickle",
         "autores": [
             "Martin Michael Neveroski Neveroski"
@@ -254,7 +254,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": "22",
         "title": "Ma's Cow",
         "autores": [
             "Patrick Flanagan"
@@ -266,7 +266,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": "23",
         "title": "Merchant Vessels of the United States",
         "autores": [
             "Anónimo"
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "id": 24,
+        "id": "24",
         "title": "Laboratory Experiments in Electrokinetic Densification of Mill Tailings",
         "autores": [
             "Albert R. Rule",
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": "25",
         "title": "Annual Report on the Vital Statistics of Massachusetts",
         "autores": [
             "Anónimo"
@@ -326,7 +326,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": "26",
         "title": "Mineral-resource Assessments in Alaska",
         "autores": [
             "Wallace Hall Campbell"
@@ -338,7 +338,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": "27",
         "title": "Public Documents of Massachusetts",
         "autores": [
             "Massachusetts"
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": "28",
         "title": "Competencies for Self-employment",
         "autores": [
             "Anónimo"
@@ -362,7 +362,7 @@
         ]
     },
     {
-        "id": 29,
+        "id": "29",
         "title": "Printers' Ink Monthly",
         "autores": [
             "Anónimo"
@@ -374,7 +374,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": "30",
         "title": "Mathematical Questions and Solutions, from the \"Educational Times.\"",
         "autores": [
             "Anónimo"
@@ -386,7 +386,7 @@
         ]
     },
     {
-        "id": 31,
+        "id": "31",
         "title": "An Essay on Disestablishment and the Voluntary Principle in Religion",
         "autores": [
             "W. Piercy Dimes"
@@ -398,7 +398,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": "32",
         "title": "Educational Times and Journal of the College of Preceptors",
         "autores": [
             "Anónimo"
@@ -410,7 +410,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": "33",
         "title": "The City Bulletin",
         "autores": [
             "Columbus (Ohio)"
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "id": 34,
+        "id": "34",
         "title": "The Public Schools Year Book",
         "autores": [
             "Anónimo"
@@ -434,7 +434,7 @@
         ]
     },
     {
-        "id": 35,
+        "id": "35",
         "title": "Āgama Tīrtha",
         "autores": [
             "Christiaan Hooykaas"
@@ -446,7 +446,7 @@
         ]
     },
     {
-        "id": 36,
+        "id": "36",
         "title": "The Journal of Education",
         "autores": [
             "Anónimo"
@@ -458,7 +458,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": "37",
         "title": "Zoological Record",
         "autores": [
             "Anónimo"
@@ -470,7 +470,7 @@
         ]
     },
     {
-        "id": 38,
+        "id": "38",
         "title": "Proceedings of the Cambridge Philological Society",
         "autores": [
             "Cambridge Philological Society"
@@ -482,7 +482,7 @@
         ]
     },
     {
-        "id": 39,
+        "id": "39",
         "title": "The School World",
         "autores": [
             "Anónimo"
@@ -494,7 +494,7 @@
         ]
     },
     {
-        "id": 40,
+        "id": "40",
         "title": "New Norfolk",
         "autores": [
             "Anónimo"
@@ -506,7 +506,7 @@
         ]
     },
     {
-        "id": 41,
+        "id": "41",
         "title": "British Books",
         "autores": [
             "Anónimo"
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "id": 42,
+        "id": "42",
         "title": "Transactions of the South Eastern Union of Scientific Societies",
         "autores": [
             "Anónimo"
@@ -530,7 +530,7 @@
         ]
     },
     {
-        "id": 43,
+        "id": "43",
         "title": "The Nandi: Their Language and Folk-lore",
         "autores": [
             "Sir Alfred Claud Hollis"
@@ -542,7 +542,7 @@
         ]
     },
     {
-        "id": 44,
+        "id": "44",
         "title": "Re-imaginar la psicología",
         "autores": [
             "James Hillman"
@@ -554,7 +554,7 @@
         ]
     },
     {
-        "id": 45,
+        "id": "45",
         "title": "Como re-crear su empresa y salir del laberinto",
         "autores": [
             "Alfredo L. Spilzinger"
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "id": 46,
+        "id": "46",
         "title": "Protocolos A-RE-HA. Análisis del retraso del habla (Edición elctrónica)",
         "autores": [
             "Miquel Serra Raventós",
@@ -579,7 +579,7 @@
         ]
     },
     {
-        "id": 47,
+        "id": "47",
         "title": "Choltziij re Tujaal Tziij",
         "autores": [
             "Juan Carlos Vásquez Aceituno",
@@ -593,7 +593,7 @@
         ]
     },
     {
-        "id": 48,
+        "id": "48",
         "title": "De Re Aedificatoria",
         "autores": [
             "Leon Battista Alberti"
@@ -605,7 +605,7 @@
         ]
     },
     {
-        "id": 49,
+        "id": "49",
         "title": "Sinfonía en re mayor (ca. 1815)",
         "autores": [
             "Ramón Carnicer y Batlle"
@@ -617,7 +617,7 @@
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "title": "EL RE-ENFOQUE DE LA SALUD",
         "autores": [
             "Francisco Solis"
@@ -629,7 +629,7 @@
         ]
     },
     {
-        "id": 51,
+        "id": "51",
         "title": "Sinfonía en re mayor L 305",
         "autores": [
             "Cayetano Brunetti"
@@ -641,7 +641,7 @@
         ]
     },
     {
-        "id": 52,
+        "id": "52",
         "title": "De re publica Hispaniae",
         "autores": [
             "Francisco José Aranda Pérez",
@@ -654,7 +654,7 @@
         ]
     },
     {
-        "id": 53,
+        "id": "53",
         "title": "Re(gener)ando construcciones y borramientos",
         "autores": [
             "Anónimo"
@@ -666,7 +666,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": "54",
         "title": "RESUMEN - You’re So Money / Usted tiene mucho dinero: Vive rico, incluso cuando no lo eres Por Farnoosh Torabi",
         "autores": [
             "Shortcut Edition"
@@ -678,7 +678,7 @@
         ]
     },
     {
-        "id": 55,
+        "id": "55",
         "title": "RESUMEN - Why You’re Stuck / Por qué está atascado: Su guía para encontrar la libertad de cualquiera de los retos de la vida Por Derek Doepker",
         "autores": [
             "Shortcut Edition"
@@ -690,7 +690,7 @@
         ]
     },
     {
-        "id": 56,
+        "id": "56",
         "title": "Re-pensar la intervención social",
         "autores": [
             "Anónimo"
@@ -702,7 +702,7 @@
         ]
     },
     {
-        "id": 57,
+        "id": "57",
         "title": "Legión re-ligión",
         "autores": [
             "Alejandro Urdapilleta"
@@ -714,7 +714,7 @@
         ]
     },
     {
-        "id": 58,
+        "id": "58",
         "title": "Dude, You're a Fag",
         "autores": [
             "C. J. Pascoe"
@@ -726,7 +726,7 @@
         ]
     },
     {
-        "id": 59,
+        "id": "59",
         "title": "El día que se perdió la cordura",
         "autores": [
             "Javier Castillo"
@@ -738,7 +738,7 @@
         ]
     },
     {
-        "id": 60,
+        "id": "60",
         "title": "Guide for Re-engineering Pay and Benefits",
         "autores": [
             "Anónimo"
@@ -750,7 +750,7 @@
         ]
     },
     {
-        "id": 61,
+        "id": "61",
         "title": "Química inorgánica experimental",
         "autores": [
             "R. E. Dodd",
@@ -763,7 +763,7 @@
         ]
     },
     {
-        "id": 62,
+        "id": "62",
         "title": "Euscal-errijetaco olgueeta, ta dantzeen neurrizco-gatz-ozpinduba",
         "autores": [
             "Bartolomé Santa Teresacoa"
@@ -775,7 +775,7 @@
         ]
     },
     {
-        "id": 63,
+        "id": "63",
         "title": "Beti gorriak! Patxaran, Osasuna ta San Fermin",
         "autores": [
             "Aimar Goenaga"
@@ -787,7 +787,7 @@
         ]
     },
     {
-        "id": 64,
+        "id": "64",
         "title": "Los \"Tres libros del sol\" de Hua Ta Mi",
         "autores": [
             "Hua Ta Mi",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": "65",
         "title": "T'ta Professor",
         "autores": [
             "Manohara Śyāma Jośī"
@@ -812,7 +812,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": "66",
         "title": "EL CUERPO EN LA LENGUA",
         "autores": [
             "SUSANA CUEVAS SUAREZ; FRANCISCO J PERAL RABASA; TA."
@@ -824,7 +824,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": "67",
         "title": "T.A. for Tots (and Other Prinzes)",
         "autores": [
             "Alvyn M. Freed"
@@ -836,7 +836,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": "68",
         "title": "The Government of China Under Mongolian Rule",
         "autores": [
             "David M. Farquhar"
@@ -848,7 +848,7 @@
         ]
     },
     {
-        "id": 69,
+        "id": "69",
         "title": "Ta'Mara's Divine Creation",
         "autores": [
             "Ta'Mara T. Beaulieu"
@@ -860,7 +860,7 @@
         ]
     },
     {
-        "id": 70,
+        "id": "70",
         "title": "Reverse Acronyms, Initialisms, & Abbreviations Dictionary",
         "autores": [
             "Anónimo"
@@ -872,7 +872,7 @@
         ]
     },
     {
-        "id": 71,
+        "id": "71",
         "title": "El Cascanueces",
         "autores": [
             "Ernest. T. A. Hoffmann"
@@ -884,7 +884,7 @@
         ]
     },
     {
-        "id": 72,
+        "id": "72",
         "title": "Enfantines",
         "autores": [
             "Modest Petrovich Mussorgsky"
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": "73",
         "title": "Tax on Capital, and fixed duty on corn. [Signed: T. A.]",
         "autores": [
             "T. A."
@@ -908,7 +908,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": "74",
         "title": "Monthly Weather Review",
         "autores": [
             "Anónimo"
@@ -920,7 +920,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": "75",
         "title": "Soil Survey, Bolivar County, Mississippi",
         "autores": [
             "G. E. Rogers"
@@ -932,7 +932,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": "76",
         "title": "A Grammar and Dictionary of the Samoan Language",
         "autores": [
             "George Pratt"
@@ -944,7 +944,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": "77",
         "title": "TA for Kids (... and Grown-ups Too ...)",
         "autores": [
             "Alvyn M. Freed"
@@ -956,7 +956,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": "78",
         "title": "A College Course on Relativity and Cosmology",
         "autores": [
             "Ta-Pei Cheng"
@@ -968,7 +968,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": "79",
         "title": "Proceedings of the Royal Society of Edinburgh",
         "autores": [
             "Royal Society of Edinburgh"
@@ -980,7 +980,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": "80",
         "title": "Sventa pajaro ta Chamula ta 1911",
         "autores": [
             "Andrés Hernández Lampoy"
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": "81",
         "title": "Representing Plans Under Uncertainty",
         "autores": [
             "Peter F. Haddawy"
@@ -1004,7 +1004,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": "82",
         "title": "Italian Dreams",
         "autores": [
             "T.A. Williams"
@@ -1016,7 +1016,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": "83",
         "title": "Murder in Siena",
         "autores": [
             "T A Williams"
@@ -1028,7 +1028,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": "84",
         "title": "Captain America By Ta-Nehisi Coates Vol. 3",
         "autores": [
             "Ta-Nehisi Coates"
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "id": 85,
+        "id": "85",
         "title": "The Book of Common Prayer in Manx Gaelic",
         "autores": [
             "Church of England"
@@ -1052,7 +1052,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": "86",
         "title": "Ta Tsing Leu Lee, Being the Fundamental Laws and a Selection from the Supplementary Statutes of the Penal Code of China",
         "autores": [
             "George Thomas Staunton",
@@ -1065,7 +1065,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": "87",
         "title": "Anthropometric Survey of the Inmates of Asylums in Scotland ...",
         "autores": [
             "James Fowler Tocher"
@@ -1077,7 +1077,7 @@
         ]
     },
     {
-        "id": 88,
+        "id": "88",
         "title": "A Treasury of Gilbert & Sullivan",
         "autores": [
             "Arthur Sullivan"
@@ -1089,7 +1089,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": "89",
         "title": "The Tinguian",
         "autores": [
             "Fay-Cooper Cole"
@@ -1101,7 +1101,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": "90",
         "title": "Monumenta Nipponica",
         "autores": [
             "Anónimo"
@@ -1113,7 +1113,7 @@
         ]
     },
     {
-        "id": 91,
+        "id": "91",
         "title": "Kuo Li T'ai-wan Ta Hsüeh Li Hsüeh Yüan Chih Wu Hsüeh Hsi Yen Chiu Pao Kao",
         "autores": [
             "Anónimo"
@@ -1125,7 +1125,7 @@
         ]
     },
     {
-        "id": 92,
+        "id": "92",
         "title": "Electronic Industries",
         "autores": [
             "Anónimo"
@@ -1137,7 +1137,7 @@
         ]
     },
     {
-        "id": 93,
+        "id": "93",
         "title": "Proceedings of the IRE.",
         "autores": [
             "Institute of Radio Engineers"
@@ -1149,7 +1149,7 @@
         ]
     },
     {
-        "id": 94,
+        "id": "94",
         "title": "Report ...",
         "autores": [
             "Iowa. Bureau of Labor"
@@ -1161,7 +1161,7 @@
         ]
     },
     {
-        "id": 95,
+        "id": "95",
         "title": "La invasión de Estados Unidos a Panamá",
         "autores": [
             "Ricaurte Soler"
@@ -1173,7 +1173,7 @@
         ]
     },
     {
-        "id": 96,
+        "id": "96",
         "title": "Injertando a Dioniso",
         "autores": [
             "Diego Mariño Sánchez"
@@ -1185,7 +1185,7 @@
         ]
     },
     {
-        "id": 97,
+        "id": "97",
         "title": "Control aplicado con variables de estado (2.ª edición)",
         "autores": [
             "MARTINEZ RODRIGUEZ, JORGE LUIS",
@@ -1198,7 +1198,7 @@
         ]
     },
     {
-        "id": 98,
+        "id": "98",
         "title": "Distinto a todos",
         "autores": [
             "Joshilyn Jackson"
@@ -1210,7 +1210,7 @@
         ]
     },
     {
-        "id": 99,
+        "id": "99",
         "title": "Introducción a la gestión patrimonial",
         "autores": [
             "José María Cardona Tomás",
@@ -1224,7 +1224,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": "100",
         "title": "Mejora tu salud de poquito a poco.",
         "autores": [
             "Dr. Juan Rivera"
@@ -1236,7 +1236,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": "101",
         "title": "Enfermero/a. Servicio de Salud de Castilla y León (SACYL). Test del Temario",
         "autores": [
             "Varios autores"
@@ -1248,7 +1248,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": "102",
         "title": "Fue ayer: Belchite. Un pueblo frente a la cuestión del pasado",
         "autores": [
             "Michonneau, Stéphane"
@@ -1260,7 +1260,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": "103",
         "title": "Introducción a la Psicometría",
         "autores": [
             "Muñiz Fernández, José"
@@ -1272,7 +1272,7 @@
         ]
     },
     {
-        "id": 104,
+        "id": "104",
         "title": "Mujeres que lo dan todo a cambio de nada",
         "autores": [
             "Mariela Michelena"
@@ -1284,7 +1284,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": "105",
         "title": "Leonardo da Vinci -cara a cara-",
         "autores": [
             "Christian Gálvez"
@@ -1296,7 +1296,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": "106",
         "title": "Revista Estudios Paraguayos 1990 a 1995 - N°1 y 2 - Vol. XVIII",
         "autores": [
             "CEADUC"
@@ -1308,7 +1308,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": "107",
         "title": "El vino y su servicio 2.ª edición",
         "autores": [
             "GARCÍA ORTIZ, FRANCISCO",
@@ -1322,7 +1322,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": "108",
         "title": "En torno a los derechos morales de los creadores",
         "autores": [
             "Joaquín J. Rams Albesa",
@@ -1343,7 +1343,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": "109",
         "title": "Elaboraciones de pastelería y repostería en cocina 2.ª edición",
         "autores": [
             "CARRERO CASARRUBIOS, Mª PILAR",
@@ -1356,7 +1356,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": "110",
         "title": "¿A quién estás pensando matar?",
         "autores": [
             "Sandra Becerril R."
@@ -1368,7 +1368,7 @@
         ]
     },
     {
-        "id": 111,
+        "id": "111",
         "title": "Práctica del amor a Jesucristo",
         "autores": [
             "San Alfonso María de Ligorio"
@@ -1380,7 +1380,7 @@
         ]
     },
     {
-        "id": 112,
+        "id": "112",
         "title": "Pedagogía diferencial y atención a la diversidad",
         "autores": [
             "Carmen Jiménez Fernández",
@@ -1393,7 +1393,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": "113",
         "title": "Arqueolog’a precolombina en Cuba y Argentina: esbozos desde la periferia",
         "autores": [
             "Ana Mar’a Rocchietti",
@@ -1406,7 +1406,7 @@
         ]
     },
     {
-        "id": 114,
+        "id": "114",
         "title": "Gestión de emociones en el día a día",
         "autores": [
             "Mestre Navas, José Miguel",
@@ -1421,7 +1421,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": "115",
         "title": "Acciones y reacciones estratégicas: adaptaciones de las FARC a las innovaciones operacionales de las Fuerzas Armadas de Colombia durante la Política de Defensa y Seguridad Democrática",
         "autores": [
             "Ortega, Miguel Mauricio"
@@ -1433,7 +1433,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": "116",
         "title": "DesmitificacióN de Dogmas y Devociones CatóLicos en Cien añOs de Soledad",
         "autores": [
             "Ernesto García Uranga"
@@ -1445,7 +1445,7 @@
         ]
     },
     {
-        "id": 117,
+        "id": "117",
         "title": "A Theory of Semiotics",
         "autores": [
             "Umberto Eco"
@@ -1457,7 +1457,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": "118",
         "title": "Canada (Ontario) Population A",
         "autores": [
             "Ian Westbury"
@@ -1469,7 +1469,7 @@
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "title": "Introducción a la eclesiología",
         "autores": [
             "Pié Ninot, Salvador"
@@ -1481,7 +1481,7 @@
         ]
     },
     {
-        "id": 120,
+        "id": "120",
         "title": "A Textbook of Biochemistry",
         "autores": [
             "Roger John Williams"
@@ -1493,7 +1493,7 @@
         ]
     },
     {
-        "id": 121,
+        "id": "121",
         "title": "A Scheme for the Detection of the More Common Classes of Carbon Compounds",
         "autores": [
             "Frank E. Weston"
@@ -1505,7 +1505,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": "122",
         "title": "Vitamin-A Deficiency as Related to Reproduction in Range Cattle",
         "autores": [
             "George Hart Hart"
@@ -1517,7 +1517,7 @@
         ]
     },
     {
-        "id": 123,
+        "id": "123",
         "title": "A Framework for Military Decision Making Under Risks",
         "autores": [
             "James V. Schultz"
@@ -1529,7 +1529,7 @@
         ]
     },
     {
-        "id": 124,
+        "id": "124",
         "title": "A Loyal Foe",
         "autores": [
             "Ivy May Bolton"
@@ -1541,7 +1541,7 @@
         ]
     },
     {
-        "id": 125,
+        "id": "125",
         "title": "Violencia ¿esencia o construcción? ¿victimas o victimarios?",
         "autores": [
             "María Cristina Kalbermatter"
@@ -1553,7 +1553,7 @@
         ]
     },
     {
-        "id": 126,
+        "id": "126",
         "title": "Historia de los tres derechos, romano, canónico y español",
         "autores": [
             "Miguel García de la Madrid"
@@ -1565,7 +1565,7 @@
         ]
     },
     {
-        "id": 127,
+        "id": "127",
         "title": "Cambiar o morir",
         "autores": [
             "Efrén Ruiz"
@@ -1577,7 +1577,7 @@
         ]
     },
     {
-        "id": 128,
+        "id": "128",
         "title": "Vigilancia, transporte y distribución de objetos valiosos o peligrosos y explosivos. SEAD0212",
         "autores": [
             "Juan Manuel Méndez Pérez"
@@ -1589,7 +1589,7 @@
         ]
     },
     {
-        "id": 129,
+        "id": "129",
         "title": "La iglesia debe enviar o verá su fin",
         "autores": [
             "Dag Heward-Mills"
@@ -1601,7 +1601,7 @@
         ]
     },
     {
-        "id": 130,
+        "id": "130",
         "title": "Sobre el umbral o para un vaciado infinito",
         "autores": [
             "Juan Diego Pérez Moreno"
@@ -1613,7 +1613,7 @@
         ]
     },
     {
-        "id": 131,
+        "id": "131",
         "title": "Tratado de la prueba en materia criminal o exposición comparada de los principios en materia criminal y de sus diversas aplicaciones en Alemania, Francia, Inglaterra, etc., etc",
         "autores": [
             "Carl Joseph Anton Mittermaier"
@@ -1625,7 +1625,7 @@
         ]
     },
     {
-        "id": 132,
+        "id": "132",
         "title": "Kurt Gödel o sobre las paradojas",
         "autores": [
             "López López, Andrés Felipe"
@@ -1637,7 +1637,7 @@
         ]
     },
     {
-        "id": 133,
+        "id": "133",
         "title": "¿Ahorrar o gastar?",
         "autores": [
             "Walter Eyzaguirre"
@@ -1649,7 +1649,7 @@
         ]
     },
     {
-        "id": 134,
+        "id": "134",
         "title": "Infierno o Paraíso. 20 claves para lo que resta del siglo XXI",
         "autores": [
             "Melnick, Sergio"
@@ -1661,7 +1661,7 @@
         ]
     },
     {
-        "id": 135,
+        "id": "135",
         "title": "Mentisán, paracetamol o wira wira?",
         "autores": [
             "Ingrid Tapia Montecinos",
@@ -1675,7 +1675,7 @@
         ]
     },
     {
-        "id": 136,
+        "id": "136",
         "title": "¿te ama o no?",
         "autores": [
             "Dakota Dulton"
@@ -1687,7 +1687,7 @@
         ]
     },
     {
-        "id": 137,
+        "id": "137",
         "title": "Los Estados débiles. ¿Culpa de los gobiernos o de los ciudadanos?",
         "autores": [
             "Yeligonma"
@@ -1699,7 +1699,7 @@
         ]
     },
     {
-        "id": 138,
+        "id": "138",
         "title": "Valoración inicial del paciente en urgencias o emergencias sanitarias",
         "autores": [
             "GARCÍA-MOYA SÁNCHEZ, RUTH",
@@ -1713,7 +1713,7 @@
         ]
     },
     {
-        "id": 139,
+        "id": "139",
         "title": "Fantasía, realidad",
         "autores": [
             "Juan O'Gorman"
@@ -1725,7 +1725,7 @@
         ]
     },
     {
-        "id": 140,
+        "id": "140",
         "title": "State Building Venture V. O'Donnell",
         "autores": [
             "Anónimo"
@@ -1737,7 +1737,7 @@
         ]
     },
     {
-        "id": 141,
+        "id": "141",
         "title": "Memorias del general O'Leary: Documentos",
         "autores": [
             "Daniel Florencio O'Leary"
@@ -1749,7 +1749,7 @@
         ]
     },
     {
-        "id": 142,
+        "id": "142",
         "title": "Bolívar y la emancipación de Sur-América",
         "autores": [
             "Daniel Florencio O'Leary"
@@ -1761,7 +1761,7 @@
         ]
     },
     {
-        "id": 143,
+        "id": "143",
         "title": "O'Malley V. 6323 North LaCrosse Avenue, Chicago, Illinois, 60646, Cook County",
         "autores": [
             "Anónimo"
@@ -1773,7 +1773,7 @@
         ]
     },
     {
-        "id": 144,
+        "id": "144",
         "title": "Trabajo Intelectural e Investigación de un Plagio",
         "autores": [
             "Raúl Rojas Soriano"
@@ -1785,7 +1785,7 @@
         ]
     },
     {
-        "id": 145,
+        "id": "145",
         "title": "Organizaciones de la sociedad civil, mecanismos e instrumentos sobre filantropía y control social",
         "autores": [
             "Lisandro Guillermo Quiñones Hernández"
@@ -1797,7 +1797,7 @@
         ]
     },
     {
-        "id": 146,
+        "id": "146",
         "title": "Trienio liberal, vintismo, rivoluzione: 1820‐1823. España, Portugal e Italia",
         "autores": [
             "Remedios Morán Martín"
@@ -1809,7 +1809,7 @@
         ]
     },
     {
-        "id": 147,
+        "id": "147",
         "title": "Prácticas educativas, pedagogía e interculturalidad",
         "autores": [
             "Rubén Bravo",
@@ -1823,7 +1823,7 @@
         ]
     },
     {
-        "id": 148,
+        "id": "148",
         "title": "Alfabetización digital e informacional",
         "autores": [
             "Elena Domínguez Romero",
@@ -1837,7 +1837,7 @@
         ]
     },
     {
-        "id": 149,
+        "id": "149",
         "title": "Auxiliares Administrativos de la Junta de Andalucia. Casos Practicos. E-book",
         "autores": [
             "Rosa Gutiérrez Quesada",
@@ -1851,7 +1851,7 @@
         ]
     },
     {
-        "id": 150,
+        "id": "150",
         "title": "Víctimas e ilesos",
         "autores": [
             "Olga Belmonte"
@@ -1863,7 +1863,7 @@
         ]
     },
     {
-        "id": 151,
+        "id": "151",
         "title": "Cuerpo de Profesores de Enseñanza Secundaria. Legislacion Canarias. E-book",
         "autores": [
             "Anónimo"
@@ -1875,7 +1875,7 @@
         ]
     },
     {
-        "id": 152,
+        "id": "152",
         "title": "Estadística descriptiva e inferencial",
         "autores": [
             "Antonio Vargas Sabadías"
@@ -1887,7 +1887,7 @@
         ]
     },
     {
-        "id": 153,
+        "id": "153",
         "title": "Personal de Servicios Domesticos. Temario Comunidad Autonoma de Aragon.e-book.",
         "autores": [
             "Odette Ochoa Guerra"
@@ -1899,7 +1899,7 @@
         ]
     },
     {
-        "id": 154,
+        "id": "154",
         "title": "Trabajadores Sociales Del Instituto Catalan de Salud. Temario. E-book",
         "autores": [
             "Isabel Trigueros"
@@ -1911,7 +1911,7 @@
         ]
     },
     {
-        "id": 155,
+        "id": "155",
         "title": "Psicología Oscura - Secretos para Analizar e Influenciar a Cualquiera",
         "autores": [
             "Bagas Bantara"
@@ -1923,7 +1923,7 @@
         ]
     },
     {
-        "id": 156,
+        "id": "156",
         "title": "Colección de Propiedad Industrial e Intelectual (Vol. 3)",
         "autores": [
             "Félix Rozanski",
@@ -1950,7 +1950,7 @@
         ]
     },
     {
-        "id": 157,
+        "id": "157",
         "title": "Informe del Grupo Asesor de Expertos en anticorrupción, transparencia e integridad para América Latina y el Caribe",
         "autores": [
             "Eduardo Engel",
@@ -1969,7 +1969,7 @@
         ]
     },
     {
-        "id": 158,
+        "id": "158",
         "title": "Chikimulja' kocha arompa tuk'a uk'ab'a e chinamob' ye turwar",
         "autores": [
             "Ramiro Vanegas Vásquez"
@@ -1981,7 +1981,7 @@
         ]
     },
     {
-        "id": 159,
+        "id": "159",
         "title": "Arte e identidades culturales",
         "autores": [
             "Anónimo"
@@ -1993,7 +1993,7 @@
         ]
     },
     {
-        "id": 160,
+        "id": "160",
         "title": "Grupo B. Ayuntamiento de Sevilla. Temario Materias Comunes.e-book.",
         "autores": [
             "Fernando Martos Navarro",
@@ -2006,7 +2006,7 @@
         ]
     },
     {
-        "id": 161,
+        "id": "161",
         "title": "Anatomía de la canción",
         "autores": [
             "Marc Myers"
@@ -2018,7 +2018,7 @@
         ]
     },
     {
-        "id": 162,
+        "id": "162",
         "title": "Introducción al Common Law",
         "autores": [
             "Fernando Cuñado",
@@ -2031,7 +2031,7 @@
         ]
     },
     {
-        "id": 163,
+        "id": "163",
         "title": "El compromiso de la fotografía",
         "autores": [
             "Anna Surinyach",
@@ -2044,7 +2044,7 @@
         ]
     },
     {
-        "id": 164,
+        "id": "164",
         "title": "Riding The Bullet",
         "autores": [
             "Stephen King"
@@ -2056,7 +2056,7 @@
         ]
     },
     {
-        "id": 165,
+        "id": "165",
         "title": "Cosas que los nietos deberían saber",
         "autores": [
             "Mark Oliver Everett"
@@ -2068,7 +2068,7 @@
         ]
     },
     {
-        "id": 166,
+        "id": "166",
         "title": "A Preliminary Study of a 1000 KW(e) Mobile Nuclear Power System",
         "autores": [
             "Anónimo"
@@ -2080,7 +2080,7 @@
         ]
     },
     {
-        "id": 167,
+        "id": "167",
         "title": "A propósito de nada",
         "autores": [
             "Allen, Woody"
@@ -2092,7 +2092,7 @@
         ]
     },
     {
-        "id": 168,
+        "id": "168",
         "title": "Ortografía de la lengua española",
         "autores": [
             "Real Academia Española"
@@ -2104,7 +2104,7 @@
         ]
     },
     {
-        "id": 169,
+        "id": "169",
         "title": "Conozca sus fortalezas 2.0.",
         "autores": [
             "Tom Rath"
@@ -2116,7 +2116,7 @@
         ]
     },
     {
-        "id": 170,
+        "id": "170",
         "title": "Research Memorandum",
         "autores": [
             "Anónimo"
@@ -2128,7 +2128,7 @@
         ]
     },
     {
-        "id": 171,
+        "id": "171",
         "title": "Dona i literatura",
         "autores": [
             "Ferran Carbó"
@@ -2140,7 +2140,7 @@
         ]
     },
     {
-        "id": 172,
+        "id": "172",
         "title": "Cartas morales, militares, civiles, i literarias, de varios autores españoles",
         "autores": [
             "Anónimo"
@@ -2152,7 +2152,7 @@
         ]
     },
     {
-        "id": 173,
+        "id": "173",
         "title": "Memoria del Secretario de Hacienda i Fomento dirijida al Presidente de los Estados Unidos de Colombia para el Congreso de ...",
         "autores": [
             "Colombia. Ministerio de Hacienda y Crédito Público",
@@ -2165,7 +2165,7 @@
         ]
     },
     {
-        "id": 174,
+        "id": "174",
         "title": "Josep Puig i Cadafalch y la búsqueda de la modernidad",
         "autores": [
             "Víctor Gómez"
@@ -2177,7 +2177,7 @@
         ]
     },
     {
-        "id": 175,
+        "id": "175",
         "title": "Recerca i Tecnologia en Enginyeria Gràfica i Disseny a la Universitat Politècnica de Catalunya",
         "autores": [
             "Jose Luis Lapaz Castillo",
@@ -2191,7 +2191,7 @@
         ]
     },
     {
-        "id": 176,
+        "id": "176",
         "title": "Problemas de tecnología industrial I",
         "autores": [
             "CASTAÑO GONZÁLEZ, RUBÉN LISARDO",
@@ -2204,7 +2204,7 @@
         ]
     },
     {
-        "id": 177,
+        "id": "177",
         "title": "What I Saw of the War",
         "autores": [
             "John H. Atwood"
@@ -2216,7 +2216,7 @@
         ]
     },
     {
-        "id": 178,
+        "id": "178",
         "title": "The Law of the Offerings in Leviticus I.-VII, Considered as the Appointed Figure of the Various Aspects of the Offering of the Body of Jesus Christ",
         "autores": [
             "Andrew Jukes"
@@ -2228,7 +2228,7 @@
         ]
     },
     {
-        "id": 179,
+        "id": "179",
         "title": "I'll Tell Nobody",
         "autores": [
             "Anónimo"
@@ -2240,7 +2240,7 @@
         ]
     },
     {
-        "id": 180,
+        "id": "180",
         "title": "Were I But His Own Wife",
         "autores": [
             "Mrs. E. A. Parkhurst"
@@ -2252,7 +2252,7 @@
         ]
     },
     {
-        "id": 181,
+        "id": "181",
         "title": "Ceylon Blue Book",
         "autores": [
             "Ceylon. Registrar-General's Department"
@@ -2264,7 +2264,7 @@
         ]
     },
     {
-        "id": 182,
+        "id": "182",
         "title": "Bulletin of the Wisconsin Natural History Society",
         "autores": [
             "Wisconsin Natural History Society"
@@ -2276,7 +2276,7 @@
         ]
     },
     {
-        "id": 183,
+        "id": "183",
         "title": "The Science and Practice of Surgery",
         "autores": [
             "William Hugh Cowie Romanis",
@@ -2289,7 +2289,7 @@
         ]
     },
     {
-        "id": 184,
+        "id": "184",
         "title": "Report on the meteorology of India",
         "autores": [
             "India. Meteorological Department"
@@ -2301,7 +2301,7 @@
         ]
     },
     {
-        "id": 185,
+        "id": "185",
         "title": "Hippopathology: a Systematic Treatise on the Disorders and Lameness of the Horse",
         "autores": [
             "William Percivall"
@@ -2313,7 +2313,7 @@
         ]
     },
     {
-        "id": 186,
+        "id": "186",
         "title": "Truck Operations and Regulations on Urban Freeways",
         "autores": [
             "William R. McCasland",
@@ -2326,7 +2326,7 @@
         ]
     },
     {
-        "id": 187,
+        "id": "187",
         "title": "The Juvenile Instructor",
         "autores": [
             "Anónimo"
@@ -2338,7 +2338,7 @@
         ]
     },
     {
-        "id": 188,
+        "id": "188",
         "title": "U kon k’ajlayil lu’umil México",
         "autores": [
             "Anónimo"
@@ -2350,7 +2350,7 @@
         ]
     },
     {
-        "id": 189,
+        "id": "189",
         "title": "VISA U TODO LO QUE DEBE SABER",
         "autores": [
             "Profesor Rodrigo (Noel Rodriguez)"
@@ -2362,7 +2362,7 @@
         ]
     },
     {
-        "id": 190,
+        "id": "190",
         "title": "La experiencia U-feeling",
         "autores": [
             "José Ángel Mañas"
@@ -2374,7 +2374,7 @@
         ]
     },
     {
-        "id": 191,
+        "id": "191",
         "title": "U-9 Fantasma de los mares",
         "autores": [
             "Johannes Spiess"
@@ -2386,7 +2386,7 @@
         ]
     },
     {
-        "id": 192,
+        "id": "192",
         "title": "U-Bahn alemán",
         "autores": [
             "Cristina Berna",
@@ -2399,7 +2399,7 @@
         ]
     },
     {
-        "id": 193,
+        "id": "193",
         "title": "Leones. Las historias de la U más exitosa de todos los tiempos",
         "autores": [
             "Gazi Jalil",
@@ -2412,7 +2412,7 @@
         ]
     },
     {
-        "id": 194,
+        "id": "194",
         "title": "Historia de la \"U\": el fútbol, la hinchada, la institución",
         "autores": [
             "Roberto Rabi",
@@ -2425,7 +2425,7 @@
         ]
     },
     {
-        "id": 195,
+        "id": "195",
         "title": "U-Boats del III Reich en Cuba. Basado en hechos reales",
         "autores": [
             "Maximino Gómez Álvarez"
@@ -2437,7 +2437,7 @@
         ]
     },
     {
-        "id": 196,
+        "id": "196",
         "title": "Ayudantes de Trabajos U Oficios . Grupo V. Temario Y Test.e-book.",
         "autores": [
             "José Tomás Pérez Romero"
@@ -2449,7 +2449,7 @@
         ]
     },
     {
-        "id": 197,
+        "id": "197",
         "title": "Elaboración y modificación de imágenes u otros elementos gráficos",
         "autores": [
             "PORTUGAL IGLESIAS, RAQUEL"
@@ -2461,7 +2461,7 @@
         ]
     },
     {
-        "id": 198,
+        "id": "198",
         "title": "The Flying U's Last Stand",
         "autores": [
             "B. M. Bower"
@@ -2473,7 +2473,7 @@
         ]
     },
     {
-        "id": 199,
+        "id": "199",
         "title": "Technical Report",
         "autores": [
             "Aeronautical Research Council (Great Britain)"
@@ -2485,7 +2485,7 @@
         ]
     },
     {
-        "id": 200,
+        "id": "200",
         "title": "Lectures Introductory to the Theory of Functions of Two Complex Variables",
         "autores": [
             "Andrew Russell Forsyth"
@@ -2497,7 +2497,7 @@
         ]
     },
     {
-        "id": 201,
+        "id": "201",
         "title": "Choice",
         "autores": [
             "Anónimo"
@@ -2509,7 +2509,7 @@
         ]
     },
     {
-        "id": 202,
+        "id": "202",
         "title": "The Constitutional Year Book",
         "autores": [
             "Anónimo"
@@ -2521,7 +2521,7 @@
         ]
     },
     {
-        "id": 203,
+        "id": "203",
         "title": "On Early English Pronunciation",
         "autores": [
             "Alexander John Ellis"
@@ -2533,7 +2533,7 @@
         ]
     },
     {
-        "id": 204,
+        "id": "204",
         "title": "鹿兒島大学理科報告",
         "autores": [
             "Anónimo"
@@ -2545,7 +2545,7 @@
         ]
     },
     {
-        "id": 205,
+        "id": "205",
         "title": "Standard Handbook for Aerospace Engineers, Second Edition",
         "autores": [
             "Brij N. Agrawal",
@@ -2558,7 +2558,7 @@
         ]
     },
     {
-        "id": 206,
+        "id": "206",
         "title": "Differential and Integral Calculus",
         "autores": [
             "Alfred George Greenhill",
@@ -2571,7 +2571,7 @@
         ]
     },
     {
-        "id": 207,
+        "id": "207",
         "title": "Uranium 2011",
         "autores": [
             "Anónimo"
@@ -2583,7 +2583,7 @@
         ]
     },
     {
-        "id": 208,
+        "id": "208",
         "title": "Annales Scientifiques de L'École Normale Supérieure",
         "autores": [
             "Anónimo"
@@ -2595,7 +2595,7 @@
         ]
     },
     {
-        "id": 209,
+        "id": "209",
         "title": "Memoirs of the Harvard Dead in the War Against Germany",
         "autores": [
             "Mark Antony De Wolfe Howe"
@@ -2607,7 +2607,7 @@
         ]
     },
     {
-        "id": 210,
+        "id": "210",
         "title": "A Complete Concordance to the Book of Mormon",
         "autores": [
             "George Reynolds"
@@ -2619,7 +2619,7 @@
         ]
     },
     {
-        "id": 211,
+        "id": "211",
         "title": "Nagoya Mathematical Journal",
         "autores": [
             "Anónimo"
@@ -2631,7 +2631,7 @@
         ]
     },
     {
-        "id": 212,
+        "id": "212",
         "title": "Fundamenta Mathematicae",
         "autores": [
             "Anónimo"
@@ -2643,7 +2643,7 @@
         ]
     },
     {
-        "id": 213,
+        "id": "213",
         "title": "POSORR PO'MORREÑETS",
         "autores": [
             "Angelo Giammarresi"
@@ -2652,6 +2652,2352 @@
         "imagen": "http://books.google.com/books/content?id=HOREEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "categorias": [
             "Young Adult Nonfiction"
+        ]
+    },
+    {
+        "id": "214",
+        "title": "Ora a tu padre",
+        "autores": [
+            "Jean Lafrance"
+        ],
+        "fecha": "1981-12-05",
+        "imagen": "http://books.google.com/books/content?id=hTSsbskH8xsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "215",
+        "title": "LA LLAVE DE TU PODER",
+        "autores": [
+            "E. MIREZ"
+        ],
+        "fecha": "2013-05-23",
+        "imagen": "http://books.google.com/books/content?id=fH8jfO1hM3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "216",
+        "title": "La luz de tu amor",
+        "autores": [
+            "Jorge Tigrero"
+        ],
+        "fecha": "2020-10-06",
+        "imagen": "http://books.google.com/books/content?id=-e8BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Poetry"
+        ]
+    },
+    {
+        "id": "217",
+        "title": "Enciende tu cerebro",
+        "autores": [
+            "Dra. Caroline Leaf"
+        ],
+        "fecha": "2017-12-05",
+        "imagen": "http://books.google.com/books/content?id=Tng1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "218",
+        "title": "Gobierna tu día",
+        "autores": [
+            "Joel Osteen"
+        ],
+        "fecha": "2022-03-08",
+        "imagen": "http://books.google.com/books/content?id=4lMyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "219",
+        "title": "Tu cerebro subconsciente puede cambiar tu vida",
+        "autores": [
+            "Mike Dow"
+        ],
+        "fecha": "2021-04-23",
+        "imagen": "http://books.google.com/books/content?id=4OD2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "220",
+        "title": "Reta Tu Vida",
+        "autores": [
+            "José Fernandez"
+        ],
+        "fecha": "2015-08-18",
+        "imagen": "http://books.google.com/books/content?id=XvCoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Health & Fitness"
+        ]
+    },
+    {
+        "id": "221",
+        "title": "El reencuentro con tu alma",
+        "autores": [
+            "Leandra Rangel"
+        ],
+        "fecha": "2022",
+        "imagen": "http://books.google.com/books/content?id=sOGiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "222",
+        "title": "Dueño de tu vida, dueño de tu tiempo",
+        "autores": [
+            "Carlos Younger"
+        ],
+        "fecha": "2018-01-04",
+        "imagen": "http://books.google.com/books/content?id=WKlXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Psychology"
+        ]
+    },
+    {
+        "id": "223",
+        "title": "El Poder De Aceptar Y Transformar Tu Vida",
+        "autores": [
+            "Mai Samra"
+        ],
+        "fecha": "2013-10-04",
+        "imagen": "http://books.google.com/books/content?id=FfMTAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "224",
+        "title": "Tu palabra me da vida",
+        "autores": [
+            "Sor María de Gracia"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=CvSNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "225",
+        "title": "Guía Para El Autor Independiente: Cómo Crear, Publicar Y Promocionar Tu Libro Para Kindle",
+        "autores": [
+            "Nick Vulich"
+        ],
+        "fecha": "2014-12-12",
+        "imagen": "http://books.google.com/books/content?id=YV7lBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "226",
+        "title": "Dios es tu defensor",
+        "autores": [
+            "Rosie Rivera"
+        ],
+        "fecha": "2021-06-08",
+        "imagen": "http://books.google.com/books/content?id=PfcIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "227",
+        "title": "TU YO DE LA 5D",
+        "autores": [
+            "St. Germain, Maureen J."
+        ],
+        "fecha": "2023-05-08",
+        "imagen": "http://books.google.com/books/content?id=t8a6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Body, Mind & Spirit"
+        ]
+    },
+    {
+        "id": "228",
+        "title": "Vence tu ansiedad y temores con neuroinducción",
+        "autores": [
+            "Juan Antonio Guerrero Cañongo"
+        ],
+        "fecha": "2018-07-02",
+        "imagen": "http://books.google.com/books/content?id=3sliDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "229",
+        "title": "Tu hijo no es perfecto",
+        "autores": [
+            "Victoria Uroz",
+            "Victoria Uroz Martínez"
+        ],
+        "fecha": "2011-08-24",
+        "imagen": "http://books.google.com/books/content?id=m4bS1UQPOfAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "230",
+        "title": "Recupera tu vida con una mente extendida",
+        "autores": [
+            "José Miguel Bolívar",
+            "Jordi Fortuny"
+        ],
+        "fecha": "2023-09-14",
+        "imagen": "http://books.google.com/books/content?id=-_TDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "231",
+        "title": "Las 6 decisiones más importantes de tu vida",
+        "autores": [
+            "Sean Covey"
+        ],
+        "fecha": "2012-07-01",
+        "imagen": "http://books.google.com/books/content?id=ukSJBS40IJ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "232",
+        "title": "Tu canción",
+        "autores": [
+            "Inês Castel-Branco"
+        ],
+        "fecha": "2017-04",
+        "imagen": "http://books.google.com/books/content?id=qVjujwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Juvenile Fiction"
+        ]
+    },
+    {
+        "id": "233",
+        "title": "Tupelov Tu-22 'Blinder' Tu-22M 'Backfire'",
+        "autores": [
+            "Yefim Gordon",
+            "Vladimir Rigmant"
+        ],
+        "fecha": "1998",
+        "imagen": "http://books.google.com/books/content?id=1a9Pfo3QtocC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "234",
+        "title": "MEJORA TU SALUD MENTAL",
+        "autores": [
+            "Régulo Marcos Jasso"
+        ],
+        "fecha": "2020-03-16",
+        "imagen": "http://books.google.com/books/content?id=NeHWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "235",
+        "title": "Abraza tu rareza",
+        "autores": [
+            "C.X. Cruz"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=B6lsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "236",
+        "title": "OBEDECE A TU CUERPO, ÁMATE!",
+        "autores": [
+            "LISE BOURBEAU"
+        ],
+        "fecha": "2017-10-27",
+        "imagen": "http://books.google.com/books/content?id=hYw7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Health & Fitness"
+        ]
+    },
+    {
+        "id": "237",
+        "title": "Elige tu propia aventura - El misterio de los Mayas",
+        "autores": [
+            "R.A. Montgomery"
+        ],
+        "fecha": "2021-01-28",
+        "imagen": "http://books.google.com/books/content?id=TvIUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Juvenile Fiction"
+        ]
+    },
+    {
+        "id": "238",
+        "title": "Encuentra a tu gente / Find Your People",
+        "autores": [
+            "Jennie Allen"
+        ],
+        "fecha": "2022-03-29",
+        "imagen": "http://books.google.com/books/content?id=jXpdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "239",
+        "title": "Es tu momento",
+        "autores": [
+            "Irina Barceló Martínez"
+        ],
+        "fecha": "2020-05-15",
+        "imagen": "http://books.google.com/books/content?id=llsGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "240",
+        "title": "Cuando Dios Susurra Tu Nombre",
+        "autores": [
+            "Max Lucado"
+        ],
+        "fecha": "2012-01-30",
+        "imagen": "http://books.google.com/books/content?id=JAfG3jR_r5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Christian life"
+        ]
+    },
+    {
+        "id": "241",
+        "title": "Tú eres lo único que falta en tu vida. Libérate del ego a través del Eneagrama",
+        "autores": [
+            "Borja Vilaseca"
+        ],
+        "fecha": "2023-01-26",
+        "imagen": "http://books.google.com/books/content?id=-pqcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "242",
+        "title": "Tú eres tú",
+        "autores": [
+            "Isaac M. Hernández Álvarez"
+        ],
+        "fecha": "2020-12-11",
+        "imagen": "http://books.google.com/books/content?id=sVApEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "243",
+        "title": "Sorprende a tu mente",
+        "autores": [
+            "Ana Ibáñez"
+        ],
+        "fecha": "2023-05-24",
+        "imagen": "http://books.google.com/books/content?id=leyzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Science"
+        ]
+    },
+    {
+        "id": "244",
+        "title": "Escucha a tu corazón",
+        "autores": [
+            "Andrew Matthews"
+        ],
+        "fecha": "2005",
+        "imagen": "http://books.google.com/books/content?id=gkyOPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Conduct of life"
+        ]
+    },
+    {
+        "id": "245",
+        "title": "Tú, simplemente tú",
+        "autores": [
+            "Federico Moccia"
+        ],
+        "fecha": "2014-04-03",
+        "imagen": "http://books.google.com/books/content?id=w1T_AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "246",
+        "title": "Vender A Través de Tu Corazón",
+        "autores": [
+            "Shirlene Reeves",
+            "PhD"
+        ],
+        "fecha": "2021-03-30",
+        "imagen": "http://books.google.com/books/content?id=0TEqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "247",
+        "title": "Maine Register Or State Year-book and Legislative Manual from April 1 ... to April 1 ...",
+        "autores": [
+            "Anónimo"
+        ],
+        "fecha": "1952",
+        "imagen": "http://books.google.com/books/content?id=mx0cAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Associations, institutions, etc"
+        ]
+    },
+    {
+        "id": "248",
+        "title": "Los Peligrosos de Puyallí",
+        "autores": [
+            "Telésforo Chávez Salvatierra"
+        ],
+        "fecha": "2014-06-02",
+        "imagen": "http://books.google.com/books/content?id=gwj4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "249",
+        "title": "EDUCACIÓN SOCIAL EN LOS CENTROS PENITENCIARIOS",
+        "autores": [
+            "VV.AA."
+        ],
+        "fecha": "2014-06-05",
+        "imagen": "http://books.google.com/books/content?id=gSK7AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "250",
+        "title": "Procesos psicosociales en los contextos educativos",
+        "autores": [
+            "Santiago Yubero Jiménez",
+            "Manuel Marín Sánchez",
+            "Rosa Grau Gumbau"
+        ],
+        "fecha": "2014-11-20",
+        "imagen": "http://books.google.com/books/content?id=dMuUBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Psychology"
+        ]
+    },
+    {
+        "id": "251",
+        "title": "Los Sanadores Heridos y la Fatiga de la Reconciliación",
+        "autores": [
+            "Bryan Mark Urbsaitis"
+        ],
+        "fecha": "2012-02-01",
+        "imagen": "http://books.google.com/books/content?id=7RJNBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "252",
+        "title": "El nacimiento de la justicia administrativa provincial. De los Consejos de Prefectura a los Consejos Provinciales",
+        "autores": [
+            "Chamocho Cantudo, Miguel Ángel "
+        ],
+        "fecha": "2014-09-04",
+        "imagen": "http://books.google.com/books/content?id=ptTIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Law"
+        ]
+    },
+    {
+        "id": "253",
+        "title": "Neuropsicología de los trastornos del neurodesarrollo",
+        "autores": [
+            "Ma. Guillermina Yañez Téllez"
+        ],
+        "fecha": "2016-05-13",
+        "imagen": "http://books.google.com/books/content?id=kWEoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Psychology"
+        ]
+    },
+    {
+        "id": "254",
+        "title": "Los trabajos de Persiles y Sigismunda",
+        "autores": [
+            "Miguel de Cervantes"
+        ],
+        "fecha": "2011-11-01",
+        "imagen": "http://books.google.com/books/content?id=pfJSDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "255",
+        "title": "Los testigos de jehová. Una guía para católicos",
+        "autores": [
+            "Teodoro García González"
+        ],
+        "fecha": "2013",
+        "imagen": "http://books.google.com/books/content?id=GrlLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "256",
+        "title": "Los alumnos con Necesidades Específicas de Apoyo Educativo: La Discapacidad Cognitiva",
+        "autores": [
+            "Luis Manuel Timón Benítez ",
+            "Ezequiel Gómez Gallardo"
+        ],
+        "fecha": "2010-02-26",
+        "imagen": "http://books.google.com/books/content?id=hp4BCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "257",
+        "title": "Monitoreo de los bosques y otras coberturas de la Amazonia colombiana, datos del año 2007.",
+        "autores": [
+            "Uriel Gonzalo Murcia García",
+            "Claudia Milena Huertas",
+            "Juan Manuel Rodríguez Rondón",
+            "Henry Omar Augusto Castellanos"
+        ],
+        "fecha": "2010-11-17",
+        "imagen": "http://books.google.com/books/content?id=qZhvAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Forests and forestry"
+        ]
+    },
+    {
+        "id": "258",
+        "title": "El Desafío de la Historia, Vol. 4: Los estudiantes del 28",
+        "autores": [
+            "Macpecri Media"
+        ],
+        "fecha": "2016-01-25",
+        "imagen": "http://books.google.com/books/content?id=wTNzCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "259",
+        "title": "Los hijos del volcán",
+        "autores": [
+            "Jordi Soler"
+        ],
+        "fecha": "2022-02-24",
+        "imagen": "http://books.google.com/books/content?id=loNZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "260",
+        "title": "Los primeros americanos y sus descendientes",
+        "autores": [
+            "Anónimo"
+        ],
+        "fecha": "1988",
+        "imagen": "http://books.google.com/books/content?id=5N1KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Indians"
+        ]
+    },
+    {
+        "id": "261",
+        "title": "Los ojos de mi princesa",
+        "autores": [
+            "Carlos Cuauhtémoc Sánchez"
+        ],
+        "fecha": "2014-09-03",
+        "imagen": "http://books.google.com/books/content?id=hdRpBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Family & Relationships"
+        ]
+    },
+    {
+        "id": "262",
+        "title": "El retorno de los caídos",
+        "autores": [
+            "Lauren Kate"
+        ],
+        "fecha": "2017-06-16",
+        "imagen": "http://books.google.com/books/content?id=B0fVDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Young Adult Fiction"
+        ]
+    },
+    {
+        "id": "263",
+        "title": "Historia general de Baja California Sur: Los procesos políticos",
+        "autores": [
+            "Dení Trejo Barajas",
+            "Edith González Cruz"
+        ],
+        "fecha": "2002-01-01",
+        "imagen": "http://books.google.com/books/content?id=SaiVSfs80tsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "264",
+        "title": "Los confines de la cristiandad",
+        "autores": [
+            "Herbert Eugene Bolton"
+        ],
+        "fecha": "2001",
+        "imagen": "http://books.google.com/books/content?id=IDnr20fkUloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Baja California (Mexico : Peninsula)"
+        ]
+    },
+    {
+        "id": "265",
+        "title": "Las venas abiertas de América Latina",
+        "autores": [
+            "Eduardo Galeano"
+        ],
+        "fecha": "2004",
+        "imagen": "http://books.google.com/books/content?id=9ejmBIlTJgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "266",
+        "title": "Buscar la filosofía en las ciencias sociales",
+        "autores": [
+            "Mario Bunge"
+        ],
+        "fecha": "1999",
+        "imagen": "http://books.google.com/books/content?id=sEnmsF3MgGUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Philosophy"
+        ]
+    },
+    {
+        "id": "267",
+        "title": "Tratado de historia de las religiones",
+        "autores": [
+            "Mircea Eliade"
+        ],
+        "fecha": "1972",
+        "imagen": "http://books.google.com/books/content?id=SZlUdKa8wGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "268",
+        "title": "El verbo de las culturas",
+        "autores": [
+            "Clotaire Rapaille"
+        ],
+        "fecha": "2015-03-01",
+        "imagen": "http://books.google.com/books/content?id=HHNzBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Language Arts & Disciplines"
+        ]
+    },
+    {
+        "id": "269",
+        "title": "La teoría de las limitaciones y sus consecuencias para la contabilidad de gestión",
+        "autores": [
+            "Eric Noreen",
+            "Debra Smith",
+            "James T. Mackey"
+        ],
+        "fecha": "1997-07",
+        "imagen": "http://books.google.com/books/content?id=Uxra8tLOFeIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "270",
+        "title": "Las razones de la democracia en América Latina",
+        "autores": [
+            "Marcos Roitman",
+            "Marcos Roitman Rosenmann"
+        ],
+        "fecha": "2005-01-01",
+        "imagen": "http://books.google.com/books/content?id=HFXZkU6uxVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Political Science"
+        ]
+    },
+    {
+        "id": "271",
+        "title": "Las paredes desnudas",
+        "autores": [
+            "Imanol Caneyada"
+        ],
+        "fecha": "2014-02-02",
+        "imagen": "http://books.google.com/books/content?id=9bS_AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "272",
+        "title": "Mejorar las búsquedas de información",
+        "autores": [
+            "Sílvia Argudo",
+            "Amadeu Pons"
+        ],
+        "fecha": "2012",
+        "imagen": "http://books.google.com/books/content?id=YBTSCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "273",
+        "title": "FUNDAMENTOS DE LAS TÉCNICAS DE EVALUACIÓN MUSCULOESQUELÉTICA (Bicolor)",
+        "autores": [
+            "M. Lynn Palmer",
+            "Marcia E. Epler"
+        ],
+        "fecha": "2002-11-28",
+        "imagen": "http://books.google.com/books/content?id=LBnRcRv3Lf4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "274",
+        "title": "Las casas",
+        "autores": [
+            "Rebecca Weber",
+            "México Secretaría de Educación Pública",
+            "Comisión Nacional de Libros de Texto Gratuitos (México)"
+        ],
+        "fecha": "2005",
+        "imagen": "#",
+        "categorias": [
+            "Animals"
+        ]
+    },
+    {
+        "id": "275",
+        "title": "Las reinas de Polanco",
+        "autores": [
+            "Guadalupe Loaeza"
+        ],
+        "fecha": "2013-03-22",
+        "imagen": "http://books.google.com/books/content?id=qsWLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Humor"
+        ]
+    },
+    {
+        "id": "276",
+        "title": "Estática",
+        "autores": [
+            "Ricardo Gánem Corvera"
+        ],
+        "fecha": "2014-10-21",
+        "imagen": "http://books.google.com/books/content?id=6-zhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Science"
+        ]
+    },
+    {
+        "id": "277",
+        "title": "Sociología urbana: de Marx y Engels a las escuelas posmodernas",
+        "autores": [
+            "Francisco Javier Ullán de la Rosa"
+        ],
+        "fecha": "2014-12-18",
+        "imagen": "http://books.google.com/books/content?id=OWrhBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Chicago school of sociology"
+        ]
+    },
+    {
+        "id": "278",
+        "title": "El ingreso a la escritura y a las culturas de lo escrito",
+        "autores": [
+            "Ferreiro, Emilia"
+        ],
+        "fecha": "2013-08-22",
+        "imagen": "http://books.google.com/books/content?id=nc-TAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "279",
+        "title": "Brevísima relación de la destrucción de las Indias",
+        "autores": [
+            "Bartolomé de las Casas"
+        ],
+        "fecha": "2010-08-31",
+        "imagen": "http://books.google.com/books/content?id=dgutDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "280",
+        "title": "Tomando (Las Vivencias de Riley Paige—Libro #4)",
+        "autores": [
+            "Blake Pierce"
+        ],
+        "fecha": "2019-11-01",
+        "imagen": "http://books.google.com/books/content?id=mhu7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "281",
+        "title": "Las Meteoritas de México",
+        "autores": [
+            "Anónimo"
+        ],
+        "fecha": "2001",
+        "imagen": "http://books.google.com/books/content?id=_S8QCkcCIwkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Meteorites"
+        ]
+    },
+    {
+        "id": "282",
+        "title": "Brevísima relación de la destruyción de las Indias",
+        "autores": [
+            "Bartolomé de las Casas"
+        ],
+        "fecha": "2006",
+        "imagen": "http://books.google.com/books/content?id=6GNfNqqNc6YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Indians, Treatment of"
+        ]
+    },
+    {
+        "id": "283",
+        "title": "Quince años de implementación de las Directrices sobre el derecho a la alimentación",
+        "autores": [
+            "Organización de las Naciones Unidas para la Alimentación y la Agricultura"
+        ],
+        "fecha": "2019-10-15",
+        "imagen": "http://books.google.com/books/content?id=wn-4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "284",
+        "title": "Las personas primero",
+        "autores": [
+            "Eduardo P. Braun"
+        ],
+        "fecha": "2016-09-01",
+        "imagen": "http://books.google.com/books/content?id=PiTaDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "285",
+        "title": "Bartolomé de las Casas",
+        "autores": [
+            "Bernat Hernández"
+        ],
+        "fecha": "2015-03-26",
+        "imagen": "http://books.google.com/books/content?id=ulTnBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Biography & Autobiography"
+        ]
+    },
+    {
+        "id": "286",
+        "title": "Historia de Las Indias",
+        "autores": [
+            "Bartolomé de Las Casas"
+        ],
+        "fecha": "2022-02-25",
+        "imagen": "http://books.google.com/books/content?id=DlphEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "287",
+        "title": "Alicia en el País de las Maravillas",
+        "autores": [
+            "Lewis Carroll"
+        ],
+        "fecha": "2020-10-08",
+        "imagen": "http://books.google.com/books/content?id=0F8BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Juvenile Fiction"
+        ]
+    },
+    {
+        "id": "288",
+        "title": "México en el mundo de las colecciones de arte",
+        "autores": [
+            "Anónimo"
+        ],
+        "fecha": "1994",
+        "imagen": "http://books.google.com/books/content?id=3gaalyLkJykC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Art, Colonial"
+        ]
+    },
+    {
+        "id": "289",
+        "title": "Boletín del Departamento de Investigación de las Tradiciones Populares",
+        "autores": [
+            "Mexico. Departamento de Investigación de las Tradiciones Populares"
+        ],
+        "fecha": "1975",
+        "imagen": "http://books.google.com/books/content?id=ba3YAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Folklore"
+        ]
+    },
+    {
+        "id": "290",
+        "title": "Proyecto piloto de aplicación de la Guía OCDE-FAO para las cadenas de suministro responsable en el sector agrícola - Informe final",
+        "autores": [
+            "Organización para la Cooperación y el Desarrollo Económicos",
+            "Organización de las Naciones Unidas para la Agricultura y la Alimentación"
+        ],
+        "fecha": "2021-06-04",
+        "imagen": "http://books.google.com/books/content?id=BtozEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "291",
+        "title": "La sombra de la noche (El descubrimiento de las brujas 2)",
+        "autores": [
+            "Deborah Harkness"
+        ],
+        "fecha": "2013-04-03",
+        "imagen": "http://books.google.com/books/content?id=r2XYdmL0ogIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "292",
+        "title": "Las ciencias de la información y el poder",
+        "autores": [
+            "Manuel de Landa"
+        ],
+        "fecha": "1997",
+        "imagen": "http://books.google.com/books/content?id=t2_3YMSfnwMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Information science"
+        ]
+    },
+    {
+        "id": "293",
+        "title": "Documento Técnico de las Guías Alimentarias Basadas en Alimentos (GABA) del Ecuador",
+        "autores": [
+            "Ministerio de Salud Pública del Ecuador y FAO",
+            "Organización de las Naciones Unidas para la Alimentación y la Agricultura   "
+        ],
+        "fecha": "2021-01-28",
+        "imagen": "http://books.google.com/books/content?id=f2YaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Health & Fitness"
+        ]
+    },
+    {
+        "id": "294",
+        "title": "Introducción a las embriofitas",
+        "autores": [
+            "Susana Valencia Ávalos"
+        ],
+        "fecha": "2018-11-14",
+        "imagen": "http://books.google.com/books/content?id=1wqnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Science"
+        ]
+    },
+    {
+        "id": "295",
+        "title": "Aprender a leer",
+        "autores": [
+            "Stanislas Dehaene"
+        ],
+        "fecha": "2019-11-20",
+        "imagen": "http://books.google.com/books/content?id=lG3ADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Psychology"
+        ]
+    },
+    {
+        "id": "296",
+        "title": "La solución",
+        "autores": [
+            "Araceli Manjón-Cabeza"
+        ],
+        "fecha": "2012-04-26",
+        "imagen": "http://books.google.com/books/content?id=IB53j8r7BHUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "297",
+        "title": "Las clases sociales en las sociedades agrarias",
+        "autores": [
+            "Rodolfo Stavenhagen"
+        ],
+        "fecha": "1969",
+        "imagen": "http://books.google.com/books/content?id=6lg2AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "298",
+        "title": "Procesos de elaboración de alimentos y bebidas",
+        "autores": [
+            "SÁNCHEZ PINEDA DE LAS INFANTAS, M.T."
+        ],
+        "fecha": "2003-01-01",
+        "imagen": "http://books.google.com/books/content?id=PxrIhy9UbZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "299",
+        "title": "Diseño de una estrategia de promoción para el desarrollo de proyectos bioenergéticos, en especial de pequeña escala",
+        "autores": [
+            "Organización de las Naciones Unidas para la Alimentación y la Agricultura"
+        ],
+        "fecha": "2019-08-19",
+        "imagen": "http://books.google.com/books/content?id=XPOrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Technology & Engineering"
+        ]
+    },
+    {
+        "id": "300",
+        "title": "Gran enciclopedia de las plantas medicinales",
+        "autores": [
+            "Josep Lluís Berdonces i Serra"
+        ],
+        "fecha": "1998",
+        "imagen": "http://books.google.com/books/content?id=-fNFAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "301",
+        "title": "El sistema nervioso",
+        "autores": [
+            "Jacques Poirier"
+        ],
+        "fecha": "2004-01-15",
+        "imagen": "http://books.google.com/books/content?id=dTtNHtuuhhgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Science"
+        ]
+    },
+    {
+        "id": "302",
+        "title": "El grafópata",
+        "autores": [
+            "Gonzalo Lizardo"
+        ],
+        "fecha": "2020-07-07",
+        "imagen": "http://books.google.com/books/content?id=NyQJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Literary Collections"
+        ]
+    },
+    {
+        "id": "303",
+        "title": "¿Cómo conquistar el corazón de Dios?",
+        "autores": [
+            "Andres Corson"
+        ],
+        "fecha": "2013-08-22",
+        "imagen": "http://books.google.com/books/content?id=iPAUlTxECMsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "304",
+        "title": "Juntos",
+        "autores": [
+            "Vivek H. Murthy"
+        ],
+        "fecha": "2021-01-20",
+        "imagen": "http://books.google.com/books/content?id=dKkJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Psychology"
+        ]
+    },
+    {
+        "id": "305",
+        "title": "El Relato Pandémico",
+        "autores": [
+            "Nicolás Ponsiglione"
+        ],
+        "fecha": "2021-10-30",
+        "imagen": "http://books.google.com/books/content?id=8aRiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Biography & Autobiography"
+        ]
+    },
+    {
+        "id": "306",
+        "title": "El secado de sólidos en la industria química",
+        "autores": [
+            "G. Nonhebel",
+            "A. A. H. Moss"
+        ],
+        "fecha": "1979",
+        "imagen": "http://books.google.com/books/content?id=i-xjzo6i8ngC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Science"
+        ]
+    },
+    {
+        "id": "307",
+        "title": "El libro de la medicina",
+        "autores": [
+            "DK"
+        ],
+        "fecha": "2021-11-02",
+        "imagen": "http://books.google.com/books/content?id=-9COEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "308",
+        "title": "El poder de tus palabras",
+        "autores": [
+            "E. W. Kenyon",
+            "Don Gossett"
+        ],
+        "fecha": "2009-03-13",
+        "imagen": "http://books.google.com/books/content?id=Mv31BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "309",
+        "title": "José María Morelos",
+        "autores": [
+            "Laura Emilia Pachecho"
+        ],
+        "fecha": "2016-01-28",
+        "imagen": "http://books.google.com/books/content?id=KsqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Juvenile Nonfiction"
+        ]
+    },
+    {
+        "id": "310",
+        "title": "El origen del mundo",
+        "autores": [
+            "Catherine Blackledge"
+        ],
+        "fecha": "2020-10-15",
+        "imagen": "http://books.google.com/books/content?id=wG70DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "311",
+        "title": "El amor inteligente",
+        "autores": [
+            "Enrique Rojas"
+        ],
+        "fecha": "2011-08-05",
+        "imagen": "http://books.google.com/books/content?id=GBe1bHPbLKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "312",
+        "title": "El color de sus ojos",
+        "autores": [
+            "Kenia María Morales Encinas"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=9dbnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Young Adult Fiction"
+        ]
+    },
+    {
+        "id": "313",
+        "title": "El testamento maya",
+        "autores": [
+            "Steve Alten"
+        ],
+        "fecha": "2012-06-01",
+        "imagen": "http://books.google.com/books/content?id=Q06rKRhdNNMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "314",
+        "title": "El secreto de la Ley de Atracción",
+        "autores": [
+            "Marpez, Callegari"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=srjzxEOhzFgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Body, Mind & Spirit"
+        ]
+    },
+    {
+        "id": "315",
+        "title": "El libro prohibido",
+        "autores": [
+            "Sebastián Silva"
+        ],
+        "fecha": "2020-06-01",
+        "imagen": "http://books.google.com/books/content?id=_GfqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "316",
+        "title": "Un huracán en el Golfo de México",
+        "autores": [
+            "Ramiro Castillo Mancilla"
+        ],
+        "fecha": "2022-06-06",
+        "imagen": "http://books.google.com/books/content?id=0NBzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "317",
+        "title": "El significado de la universidad desde la experiencia de estudiantes LGBT",
+        "autores": [
+            "Arturo Gerardo Ruiz Utrilla"
+        ],
+        "fecha": "2022-07-14",
+        "imagen": "http://books.google.com/books/content?id=w257EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "318",
+        "title": "El significado del matrimonio",
+        "autores": [
+            "Timothy Keller"
+        ],
+        "fecha": "2017-01-01",
+        "imagen": "http://books.google.com/books/content?id=aiC6DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "319",
+        "title": "HEMATOLOGÍA PARA EL PASE DE VISITA",
+        "autores": [
+            "Juan Antonio Vega Rosales"
+        ],
+        "fecha": "2022-07-24",
+        "imagen": "http://books.google.com/books/content?id=aEN9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "320",
+        "title": "El sabor del amor",
+        "autores": [
+            "Gustavo Villén"
+        ],
+        "fecha": "2015-12-14",
+        "imagen": "http://books.google.com/books/content?id=4CzEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "321",
+        "title": "El diario de un soldado de filas rojas mexicanas",
+        "autores": [
+            "Gio Canto"
+        ],
+        "fecha": "2022-04-22",
+        "imagen": "http://books.google.com/books/content?id=wpNyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Young Adult Fiction"
+        ]
+    },
+    {
+        "id": "322",
+        "title": "Scrum",
+        "autores": [
+            "Jeff Sutherland"
+        ],
+        "fecha": "2021-05",
+        "imagen": "http://books.google.com/books/content?id=wyevAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "323",
+        "title": "La pelea por el infierno",
+        "autores": [
+            "Enrique Zuñiga"
+        ],
+        "fecha": "2022-09-15",
+        "imagen": "http://books.google.com/books/content?id=DIOFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "324",
+        "title": "Dibuja el círculo",
+        "autores": [
+            "Mark Batterson"
+        ],
+        "fecha": "2014-10-21",
+        "imagen": "http://books.google.com/books/content?id=NkvRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "325",
+        "title": "Mentores según el corazón de Dios",
+        "autores": [
+            "Wayne Cordeiro"
+        ],
+        "fecha": "2020-08-11",
+        "imagen": "http://books.google.com/books/content?id=6732DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "326",
+        "title": "Resumen Completo - El Principio De La Proximidad (The Proximity Principle) - Basado En El Libro De Ken Coleman",
+        "autores": [
+            "Libros Maestros"
+        ],
+        "fecha": "2024-02-27",
+        "imagen": "http://books.google.com/books/content?id=bebzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "327",
+        "title": "Tecnología e industria en el futuro de México",
+        "autores": [
+            "Centro de Investigación para el Desarrollo"
+        ],
+        "fecha": "1989",
+        "imagen": "http://books.google.com/books/content?id=fibsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "328",
+        "title": "Estudio integral de las pensiones que otorga el IMSS",
+        "autores": [
+            "Comisión Representativa Ante Organismos de Seguridad Social ",
+            "Instituto Mexicano de Contadores Píºblicos"
+        ],
+        "fecha": "2015-04-17",
+        "imagen": "http://books.google.com/books/content?id=UwMlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "329",
+        "title": "Comprender el estrés",
+        "autores": [
+            "Xavier Torres Mata",
+            "Eva Baillés Lazaro"
+        ],
+        "fecha": "2015-01-13",
+        "imagen": "http://books.google.com/books/content?id=hmLCCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "330",
+        "title": "El análisis complejo y su historia",
+        "autores": [
+            "Antonio Cipriano Santiago Zaragoza",
+            "María José Santiago Puertas"
+        ],
+        "fecha": "2014-03-13",
+        "imagen": "http://books.google.com/books/content?id=-JLSBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Mathematics"
+        ]
+    },
+    {
+        "id": "331",
+        "title": "El misterioso caso alemán",
+        "autores": [
+            "Rosa Sala Rose"
+        ],
+        "fecha": "2016-10-11",
+        "imagen": "http://books.google.com/books/content?id=AUZ51WDSh7YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Literary Collections"
+        ]
+    },
+    {
+        "id": "332",
+        "title": "El Crítico",
+        "autores": [
+            "Malpica, Antonio"
+        ],
+        "fecha": "2020-08-03",
+        "imagen": "http://books.google.com/books/content?id=bf70DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "333",
+        "title": "El Dios viviente y el Dios de la resurrección",
+        "autores": [
+            "Witness Lee"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=vSp3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "334",
+        "title": "El Fascinante Mundo de La Biblia",
+        "autores": [
+            "Nelson B. Keyes"
+        ],
+        "fecha": "2003-08",
+        "imagen": "http://books.google.com/books/content?id=-zWjsgO0UM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "335",
+        "title": "3000+ Spanish - Frisian Frisian - Spanish Vocabulary",
+        "autores": [
+            "Jerry Greer"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=svTJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "336",
+        "title": "Spanish Grammar Made Easy",
+        "autores": [
+            "Mike Zollo",
+            "Allan Wesson"
+        ],
+        "fecha": "2014-04-08",
+        "imagen": "http://books.google.com/books/content?id=4PpQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "337",
+        "title": "Neurosis, sustancias y literatura",
+        "autores": [
+            "Mariana H"
+        ],
+        "fecha": "2018-03-23",
+        "imagen": "http://books.google.com/books/content?id=lORLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Literary Collections"
+        ]
+    },
+    {
+        "id": "338",
+        "title": "39000+ Spanish - Armenian Armenian - Spanish Vocabulary",
+        "autores": [
+            "Jerry Greer"
+        ],
+        "fecha": "Sin información.",
+        "imagen": "http://books.google.com/books/content?id=ezPKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "339",
+        "title": "Más allá de los mitos",
+        "autores": [
+            "José Alfredo Martínez de Hoz"
+        ],
+        "fecha": "2014-11-01",
+        "imagen": "http://books.google.com/books/content?id=TUnZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Biography & Autobiography"
+        ]
+    },
+    {
+        "id": "340",
+        "title": "Más alemán que Hitler",
+        "autores": [
+            "Guillermo J. Fadanelli"
+        ],
+        "fecha": "2001",
+        "imagen": "http://books.google.com/books/content?id=eqMdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Juvenile Nonfiction"
+        ]
+    },
+    {
+        "id": "341",
+        "title": "Productividad Extrema",
+        "autores": [
+            "Julio Juez"
+        ],
+        "fecha": "2020-05-24",
+        "imagen": "http://books.google.com/books/content?id=2YznDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Self-Help"
+        ]
+    },
+    {
+        "id": "342",
+        "title": "Nada más",
+        "autores": [
+            "Marguerite Duras"
+        ],
+        "fecha": "2022-11-14",
+        "imagen": "http://books.google.com/books/content?id=UvWbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "343",
+        "title": "Cómo sanarte cuando nadie más puede hacerlo",
+        "autores": [
+            "Amy B Scher"
+        ],
+        "fecha": "2018-03-23",
+        "imagen": "http://books.google.com/books/content?id=hORLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Health & Fitness"
+        ]
+    },
+    {
+        "id": "344",
+        "title": "Quédate más tiempo",
+        "autores": [
+            "David Viñas Piquer"
+        ],
+        "fecha": "2022-01-07",
+        "imagen": "http://books.google.com/books/content?id=WQ1QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "345",
+        "title": "El libro más lindo del mundo",
+        "autores": [
+            "Rosario Oyhanarte"
+        ],
+        "fecha": "2021-07-01",
+        "imagen": "http://books.google.com/books/content?id=5Ak0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "346",
+        "title": "Algo más",
+        "autores": [
+            "Marcelo Cohen"
+        ],
+        "fecha": "2022-05-07",
+        "imagen": "http://books.google.com/books/content?id=YaeKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "347",
+        "title": "Funderelele Y Más Hallazgos de la Lengua",
+        "autores": [
+            "Laura Laura"
+        ],
+        "fecha": "2023-05-02",
+        "imagen": "http://books.google.com/books/content?id=7x2vwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Juvenile Nonfiction"
+        ]
+    },
+    {
+        "id": "348",
+        "title": "Más Competitivas que Pequeñas  ",
+        "autores": [
+            "Israel Guarneros"
+        ],
+        "fecha": "2014-10-21",
+        "imagen": "http://books.google.com/books/content?id=ftThBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "349",
+        "title": "Method and Order in Renaissance Philosophy of Nature",
+        "autores": [
+            "Daniel A. Di Liscia",
+            "Eckhard Kessler"
+        ],
+        "fecha": "2016-12-05",
+        "imagen": "http://books.google.com/books/content?id=My6oDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "350",
+        "title": "Más allá de la seguridad basada en el comportamiento",
+        "autores": [
+            "Fabiola María Betancur Gómez"
+        ],
+        "fecha": "2022-10-25",
+        "imagen": "http://books.google.com/books/content?id=wXGXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "351",
+        "title": "El sentido de trabajar",
+        "autores": [
+            "Dave Ulrich",
+            "Wendy Ulrich"
+        ],
+        "fecha": "2011-06",
+        "imagen": "http://books.google.com/books/content?id=vSsEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "352",
+        "title": "Nadie es más de aquí que tú",
+        "autores": [
+            "Miranda July"
+        ],
+        "fecha": "2018-02-01",
+        "imagen": "http://books.google.com/books/content?id=lMpADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "353",
+        "title": "La tierra fértil",
+        "autores": [
+            "Paloma Díaz Más"
+        ],
+        "fecha": "1999",
+        "imagen": "http://books.google.com/books/content?id=b7keAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "354",
+        "title": "World malaria report 2022",
+        "autores": [
+            "World Health Organization"
+        ],
+        "fecha": "2022-12-08",
+        "imagen": "http://books.google.com/books/content?id=ST-hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "355",
+        "title": "Lo que no te mata te hace más fuerte (Serie Millennium 4)",
+        "autores": [
+            "David Lagercrantz"
+        ],
+        "fecha": "2015-08-29",
+        "imagen": "http://books.google.com/books/content?id=r-SqCQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "356",
+        "title": "Tú la querrás más",
+        "autores": [
+            "Corín Tellado"
+        ],
+        "fecha": "2017-02-14",
+        "imagen": "http://books.google.com/books/content?id=_wEKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "357",
+        "title": "¿Podemos hablar de algo más agradable?",
+        "autores": [
+            "Roz Chast"
+        ],
+        "fecha": "2015-10-15",
+        "imagen": "http://books.google.com/books/content?id=x-mHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Comics & Graphic Novels"
+        ]
+    },
+    {
+        "id": "358",
+        "title": "¡Vamos!: 7 ideas audaces para una América Latina más próspera, justa y feliz / L e ts Do This! 7 Bold Ideas for a More Prosperous, More Equitable, and Happi",
+        "autores": [
+            "Luis Alberto Moreno"
+        ],
+        "fecha": "2022-08-23",
+        "imagen": "http://books.google.com/books/content?id=jGSREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "359",
+        "title": "Arturo, la estrella más brillante",
+        "autores": [
+            "Reinaldo Arenas"
+        ],
+        "fecha": "2001",
+        "imagen": "http://books.google.com/books/content?id=Y05lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Cuban fiction"
+        ]
+    },
+    {
+        "id": "360",
+        "title": "Modern Spanish Grammar",
+        "autores": [
+            "Christopher Pountain",
+            "Juan Kattan-Ibarra",
+            "Christopher J. Pountain",
+            "Juan Kattán-Ibarra"
+        ],
+        "fecha": "2004-06-01",
+        "imagen": "http://books.google.com/books/content?id=CvZE5r-MVuEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "361",
+        "title": "Las 500 dudas más frecuentes del inglés",
+        "autores": [
+            "British Council"
+        ],
+        "fecha": "2016-09-27",
+        "imagen": "http://books.google.com/books/content?id=at2HDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "362",
+        "title": "No duermas más",
+        "autores": [
+            "P. D. James"
+        ],
+        "fecha": "2020-02-13",
+        "imagen": "http://books.google.com/books/content?id=ZCjnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "363",
+        "title": "Más allá de Occidente",
+        "autores": [
+            "Estermann, Josef"
+        ],
+        "fecha": "2015-04-24",
+        "imagen": "http://books.google.com/books/content?id=U-RZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Political Science"
+        ]
+    },
+    {
+        "id": "364",
+        "title": "Strontium and Strontium Compounds",
+        "autores": [
+            "Peter Watts",
+            "Paul Howe",
+            "World Health Organization"
+        ],
+        "fecha": "2010-06-07",
+        "imagen": "http://books.google.com/books/content?id=K1E0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "365",
+        "title": "'De acuerdo' 20 Simulaciones para la clase español",
+        "autores": [
+            "Noelia Alcarazo Lopez",
+            "López Nuria"
+        ],
+        "fecha": "2016-04-14",
+        "imagen": "http://books.google.com/books/content?id=xX_7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Foreign Language Study"
+        ]
+    },
+    {
+        "id": "366",
+        "title": "Notas del Más Allá",
+        "autores": [
+            "DANIEL GUEVARA"
+        ],
+        "fecha": "2022-04-12",
+        "imagen": "http://books.google.com/books/content?id=SAxqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "367",
+        "title": "Ma ́s, Menos, y Ni Ma ́s Ni Menos",
+        "autores": [
+            "Juan de Arona"
+        ],
+        "fecha": "2018-01-09",
+        "imagen": "http://books.google.com/books/content?id=_xbBswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "368",
+        "title": "Metodología y técnicas de investigación en ciencias sociales",
+        "autores": [
+            "Felipe Pardinas"
+        ],
+        "fecha": "1989",
+        "imagen": "http://books.google.com/books/content?id=PDqKweTKbhUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social sciences"
+        ]
+    },
+    {
+        "id": "369",
+        "title": "Certificación y modelos de calidad en hostelería y restauración",
+        "autores": [
+            "Jorge Puig Durán",
+            "Jorge Puig-Durán Fresco"
+        ],
+        "fecha": "2006",
+        "imagen": "http://books.google.com/books/content?id=dRv-y2f2IsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "370",
+        "title": "Métodos de análisis microbiológicos de alimentos",
+        "autores": [
+            "Corrie Allaert Vandevenne",
+            "Marta Escolá Ribes"
+        ],
+        "fecha": "2002-10",
+        "imagen": "http://books.google.com/books/content?id=_H9PkmwKdZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "House & Home"
+        ]
+    },
+    {
+        "id": "371",
+        "title": "Nematodos parásitos en peces de las costas gallegas",
+        "autores": [
+            "M. L. Sanmartin"
+        ],
+        "fecha": "1994-03-18",
+        "imagen": "http://books.google.com/books/content?id=XRz-8xoclUQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "372",
+        "title": "Avances en el déficit de hormona del crecimiento",
+        "autores": [
+            "Ricardo Gracia Bouthelier",
+            "José Antonio Portellano Pérez"
+        ],
+        "fecha": "1998",
+        "imagen": "http://books.google.com/books/content?id=HoszXtj-N1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Medical"
+        ]
+    },
+    {
+        "id": "373",
+        "title": "El mantenimiento, fuente de beneficios",
+        "autores": [
+            "Jean-Paul Souris"
+        ],
+        "fecha": "1992",
+        "imagen": "http://books.google.com/books/content?id=XgnUny4SjjMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "374",
+        "title": "Literaturas de Anahuac y del Incario / Literatures of Anahuac and the Inca",
+        "autores": [
+            "Miguel León Portilla"
+        ],
+        "fecha": "2006",
+        "imagen": "http://books.google.com/books/content?id=5NA8BaUgrjUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "History"
+        ]
+    },
+    {
+        "id": "375",
+        "title": "Casos prácticos de management estratégico",
+        "autores": [
+            "Miguel Ángel Martínez Martínez"
+        ],
+        "fecha": "1995-12",
+        "imagen": "http://books.google.com/books/content?id=f1P75h0gcacC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Business & Economics"
+        ]
+    },
+    {
+        "id": "376",
+        "title": "Canciones de Arauco",
+        "autores": [
+            "Samuel A. Lillo"
+        ],
+        "fecha": "1996",
+        "imagen": "http://books.google.com/books/content?id=3Eywq75rw6QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Araucanía (Chile)"
+        ]
+    },
+    {
+        "id": "377",
+        "title": "La querella de la conquista",
+        "autores": [
+            "Mauricio Beuchot"
+        ],
+        "fecha": "1992",
+        "imagen": "http://books.google.com/books/content?id=O4jMHqCApL0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Political Science"
+        ]
+    },
+    {
+        "id": "378",
+        "title": "Historia de la conquista de México, población y progresos de la América Septentrional conocida por el nombre de Nueva España",
+        "autores": [
+            "Antonio de Solis y Rivadeneyra"
+        ],
+        "fecha": "1790",
+        "imagen": "http://books.google.com/books/content?id=E8vsFl8A8mUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Mexico"
+        ]
+    },
+    {
+        "id": "379",
+        "title": "PAPELES DE COMBATE",
+        "autores": [
+            "MIGUEL ORDUNA CARSON; ALEJANDRO DE LA TORRE HERNAN."
+        ],
+        "fecha": "2023-05-30",
+        "imagen": "http://books.google.com/books/content?id=2HLWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "380",
+        "title": "El libro de las fundaciones",
+        "autores": [
+            "Santa Teresa De Jesús"
+        ],
+        "fecha": "2013-08-26",
+        "imagen": "http://books.google.com/books/content?id=LY2eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Religion"
+        ]
+    },
+    {
+        "id": "381",
+        "title": "Interpretación de la Constitución y ordenamiento jurídico",
+        "autores": [
+            "María Luisa Balaguer Callejón"
+        ],
+        "fecha": "2022-03-01",
+        "imagen": "http://books.google.com/books/content?id=nu5mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Law"
+        ]
+    },
+    {
+        "id": "382",
+        "title": "Historia universal de la Iglesia",
+        "autores": [
+            "Johannes Baptist Alzog"
+        ],
+        "fecha": "1852",
+        "imagen": "http://books.google.com/books/content?id=gbTsxGp3EQAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Església"
+        ]
+    },
+    {
+        "id": "383",
+        "title": "La ética de la redistribución",
+        "autores": [
+            "Bertrand de Jouvenel"
+        ],
+        "fecha": "2010-04",
+        "imagen": "http://books.google.com/books/content?id=iDRAxd4dcK8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Income distribution"
+        ]
+    },
+    {
+        "id": "384",
+        "title": "Estadísticas históricas de México",
+        "autores": [
+            "Instituto Nacional de Estadística, Geografía e Informática (Mexico)"
+        ],
+        "fecha": "1994",
+        "imagen": "http://books.google.com/books/content?id=COWFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Mexico"
+        ]
+    },
+    {
+        "id": "385",
+        "title": "Novelas ejemplares",
+        "autores": [
+            "Miguel de Cervantes"
+        ],
+        "fecha": "2023-03-21",
+        "imagen": "http://books.google.com/books/content?id=0VC1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "386",
+        "title": "Guía de Derecho Civil. Teoría y práctica (Tomo III)",
+        "autores": [
+            "Remedios Aranda Rodríguez",
+            "María del Rosario Díaz Romero",
+            "María Goñi Rodríguez de Almeida",
+            "Ma Isabel Mondejar Peña",
+            "María del Pilar Pérez Álvarez"
+        ],
+        "fecha": "2021-07-22",
+        "imagen": "http://books.google.com/books/content?id=pIFYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Law"
+        ]
+    },
+    {
+        "id": "387",
+        "title": "Pensamiento y mística hispanojudía y sefardí",
+        "autores": [
+            "Javier Fernández Vallina"
+        ],
+        "fecha": "2001",
+        "imagen": "http://books.google.com/books/content?id=F_FQlUe6WMsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Jewish philosophy"
+        ]
+    },
+    {
+        "id": "388",
+        "title": "Directorio del censo de manufacturas",
+        "autores": [
+            "Peru. Dirección Nacional de Estadística y Censos"
+        ],
+        "fecha": "1966",
+        "imagen": "http://books.google.com/books/content?id=bggQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Industrial statistics"
+        ]
+    },
+    {
+        "id": "389",
+        "title": "Historia de Los Protestantes Españoles Y de Su Persecucion Por Felipe II.",
+        "autores": [
+            "Adolfo de Castro"
+        ],
+        "fecha": "1851",
+        "imagen": "http://books.google.com/books/content?id=KMsCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Inquisition"
+        ]
+    },
+    {
+        "id": "390",
+        "title": "Teoría de la unión de los 5 continentes",
+        "autores": [
+            "Oswaldo Hidalgo Solís"
+        ],
+        "fecha": "2021-11-18",
+        "imagen": "http://books.google.com/books/content?id=LvFPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Political Science"
+        ]
+    },
+    {
+        "id": "391",
+        "title": "Historia de Méjico desde sus tiempos mas remotos hasta nuestros dias",
+        "autores": [
+            "Niceto de Zamacois"
+        ],
+        "fecha": "1881",
+        "imagen": "http://books.google.com/books/content?id=H9dYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Mexico"
+        ]
+    },
+    {
+        "id": "392",
+        "title": "El hombre del teléfono",
+        "autores": [
+            "Margarita Rosa De Francisco"
+        ],
+        "fecha": "2016-11-04",
+        "imagen": "http://books.google.com/books/content?id=fXN1DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "393",
+        "title": "Herramienta de análisis de género en servicios de asesoramiento rural",
+        "autores": [
+            "Organización de las Naciones Unidas para la Agricultura y la Alimentación"
+        ],
+        "fecha": "2021-07-22",
+        "imagen": "http://books.google.com/books/content?id=rBM_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Law"
+        ]
+    },
+    {
+        "id": "394",
+        "title": "El Cordel y Otros Cuentos",
+        "autores": [
+            "Guy de Maupassant"
+        ],
+        "fecha": "2000",
+        "imagen": "http://books.google.com/books/content?id=w3GUzYGeqvkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Literary Collections"
+        ]
+    },
+    {
+        "id": "395",
+        "title": "El aprendiz de bruja. Concierto barroco. El arpa y la sombra",
+        "autores": [
+            "Alejo Carpentier"
+        ],
+        "fecha": "1983",
+        "imagen": "http://books.google.com/books/content?id=kK2klJMxA5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Fiction"
+        ]
+    },
+    {
+        "id": "396",
+        "title": "Campaign Of The Grande Y Felicísima Armada, 1588",
+        "autores": [
+            "André Geraque Kiffer"
+        ],
+        "fecha": "2020-08-14",
+        "imagen": "http://books.google.com/books/content?id=ybWJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Social Science"
+        ]
+    },
+    {
+        "id": "397",
+        "title": "Comunicación oral y escrita",
+        "autores": [
+            "Verónica del Carmen Quijada Monroy",
+            "Editorial Digital UNID"
+        ],
+        "fecha": "2014-11-25",
+        "imagen": "http://books.google.com/books/content?id=Md-WBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Education"
+        ]
+    },
+    {
+        "id": "398",
+        "title": "Ecología y capital",
+        "autores": [
+            "Enrique Leff"
+        ],
+        "fecha": "1994",
+        "imagen": "http://books.google.com/books/content?id=bUsfFF_DXskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Political Science"
+        ]
+    },
+    {
+        "id": "399",
+        "title": "Diccionario universal de historia y geografía",
+        "autores": [
+            "Lucas Alamán",
+            "José María Andrade",
+            "José María Bassoco",
+            "José María Castillo Lanzas",
+            "Manuel Diez de Bonilla",
+            "Joaquín García Icazbalceta",
+            "Francisco Javier Miranda",
+            "Manuel Orozco y Berra",
+            "Emilio Pardo",
+            "José Fernando Ramírez",
+            "Ignacio Rayón",
+            "Joaquín Velázquez de León",
+            "José María Lafragua"
+        ],
+        "fecha": "1854",
+        "imagen": "http://books.google.com/books/content?id=_yds8P93ubEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Gazetteers"
+        ]
+    },
+    {
+        "id": "400",
+        "title": "Ilustracion apologetica al primero y segundo tomo del Theatro critico, donde se notan mas de quatrocientos descuidos al autor del Anti-Theatro",
+        "autores": [
+            "Benito Jerónimo Feijoo"
+        ],
+        "fecha": "1769",
+        "imagen": "http://books.google.com/books/content?id=_vYAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Spanish drama"
+        ]
+    },
+    {
+        "id": "401",
+        "title": "Entre jueces y reos. Las postrimerías del Derecho penal absolutista",
+        "autores": [
+            "Ortego Gil, Pedro"
+        ],
+        "fecha": "2015",
+        "imagen": "http://books.google.com/books/content?id=-63RCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Law"
+        ]
+    },
+    {
+        "id": "402",
+        "title": "Capacidades de Pasta Y Papel",
+        "autores": [
+            "Food and Agriculture Organization of the United Nations"
+        ],
+        "fecha": "1996",
+        "imagen": "http://books.google.com/books/content?id=CqeD6o3m6P4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Paper industry"
+        ]
+    },
+    {
+        "id": "403",
+        "title": "Política, igualdad social y educación. Textos seleccionados de sociología de la educación (I)",
+        "autores": [
+            "España. Ministerio de Educación y Ciencia"
+        ],
+        "fecha": "1978",
+        "imagen": "http://books.google.com/books/content?id=Kl5BCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "categorias": [
+            "Educational sociology"
+        ]
+    },
+    {
+        "id": "404",
+        "title": "Tamoanchán",
+        "autores": [
+            "Francisco Plancarte y Navarrete"
+        ],
+        "fecha": "1911",
+        "imagen": "http://books.google.com/books/content?id=PxtlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "categorias": [
+            "Indians of Mexico"
         ]
     }
 ]

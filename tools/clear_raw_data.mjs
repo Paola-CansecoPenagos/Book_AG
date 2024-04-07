@@ -39,7 +39,7 @@ datas.map((data, index) => {
     }
 
     datosLimpios.push({
-        id: ++id,
+        id: (++id).toString(),
         title: data.volumeInfo.title,
         autores: autores,
         fecha: fechaDeRegistro,
