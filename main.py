@@ -1,5 +1,6 @@
 from libs.AlgoritmoGenetico import AlgoritmoGenetico
 import json
+from pprint import pp
 
 """
 Importamos los datos de entrada
@@ -25,8 +26,12 @@ ag_instancia.setup(porcentaje_cruza=0.5,
                    porcentaje_mut_gen=0.5,  # Porcentaje de mutación por gen
                    poblacion_inicial=10,
                    poblacion_max=50,
-                   generaciones=100
+                   generaciones=1000
                    )
 
 ag_instancia.load_preferences(data_input)
-ag_instancia.run() # Empieza el ciclo de ejecución :)
+result = ag_instancia.run() # Empieza el ciclo de ejecución :) - Retorna una lista de libros bajo el criterio
+pp(result)
+ag_instancia.render_graphics()
+
+del ag_instancia

@@ -1,7 +1,7 @@
 import json
 import random
-from pprint import pp
-
+import matplotlib.pyplot as plt
+import os
 
 class AlgoritmoGenetico:
     def __init__(self):
@@ -66,6 +66,12 @@ class AlgoritmoGenetico:
             result.append(self.random_individual_gen())
         return result
 
+    def poda(self, population):
+        while (len(population) > self.max_population):
+            index_to_delete = random.randrange(0, len(population))
+            del population[index_to_delete]
+        return population
+
     def calculate_from_population(self, gen_list):
         logs = []
         best = None
@@ -78,9 +84,9 @@ class AlgoritmoGenetico:
 
             if (individual_as_index >= len(self.data)):
                 # Se puede comentar esta línea si se quiere omitir los individuos fuera de rango. (Para evitar que la gráfica del peor individuo llegue a 0 tan rápido)
-                logs.append({"individual": individual,
+                logs.append({"gen": individual,
                             "weight": individual_weight})
-                print("Skipping due to index being larger than the dataset...")
+                #print("Skipping due to index being larger than the dataset...")
                 continue
 
             current_individual_authors = self.data[individual_as_index]["autores"]
@@ -95,19 +101,20 @@ class AlgoritmoGenetico:
             if any(item in self.favorites_categories for item in current_individual_categories):
                 individual_weight += 1
 
-            individual_to_save = {"individual": individual, "weight": individual_weight}
+            individual_to_save = {"gen": individual,
+                                  "weight": individual_weight}
             logs.append(individual_to_save)
             total_weight += individual_weight
-            
-            if(best is None and worst is None):
+
+            if (best is None and worst is None):
                 best = individual_to_save
                 worst = individual_to_save
                 continue
 
-            if(best["weight"] < individual_weight):
+            if (best["weight"] < individual_weight):
                 best = individual_to_save
-                
-            if(worst["weight"] > individual_weight):
+
+            if (worst["weight"] > individual_weight):
                 worst = individual_to_save
 
         return {"logs": logs, "stats": {"best": best, "worst": worst, "avarage": round(total_weight / len(gen_list), 3)}}
@@ -149,31 +156,102 @@ class AlgoritmoGenetico:
             genetic_chain[bit] = another_genetic_chain[bit]
 
         return "".join(genetic_chain)
+    
+    def search_from_index(self, books_list):
+        result = []
+        
+        for book_index_bin in books_list:
+            individual_as_index = int(str(book_index_bin["gen"]), 2)
+            
+            if (individual_as_index >= len(self.data)):
+                print(f"Saltando libro {book_index_bin}, fuera de rango.")
+                continue
+            
+            res = self.data[individual_as_index]
+            res["weight"] = book_index_bin["weight"]
+            result.append(res)
+            
+            
+        return result
 
-    def run(self):
+    def render_graphics(self):
+        
+        average_values = [entry['avarage'] for entry in self.all_records]
+        best_weights = [entry['best']['weight'] for entry in self.all_records]
+        worst_weights = [entry['worst']['weight'] for entry in self.all_records]
+        
+        indices = list(range(len(self.all_records)))
+
+        plt.figure(figsize=(12, 6))
+        # Crear la gráfica
+        plt.plot(indices, average_values, marker='o', linestyle='-', label='Pesos promedios', color='blue')
+        plt.plot(indices, best_weights, marker='o', linestyle='-', label='Mejor Peso', color='green')
+        plt.plot(indices, worst_weights, marker='o', linestyle='-', label='Peor Peso', color='red')
+
+        # Añadir etiquetas y título
+        plt.xlabel('Generación')
+        plt.ylabel('Peso')
+        plt.title('Reporte Histórico')
+        plt.legend()
+
+        # Mostrar la gráfica
+        plt.grid(True)
+        carpeta = "graphics"
+        if not os.path.exists(carpeta):
+            os.makedirs(carpeta)
+
+        # Guardar la gráfica en la carpeta
+        ruta_grafica = os.path.join(carpeta, "grafica.png")
+        plt.savefig(ruta_grafica)
+
+    def run(self, max_result=10):
         # Inicialización
+        result = None
         best_individual = {"gen": None, "weight": None}
         worst_individual = {"gen": None, "weight": None}
 
-        all_records = []
+        self.all_records = []
         # Invoca la primera generación
         population = self.invoke_first_generation()
 
         # --genarational loop--
-        # Cruzamos la primera generación
-        population = self.cross(population)
+        for i in range(self.generations_count):
+            print(f"Generación {i+1} de {self.generations_count}")
+            # Cruzamos la primera generación
+            population = self.cross(population)
 
-        if (best_individual["gen"] is not None):
-            if (best_individual["gen"] not in population):
-                # Metemos a la fuerza al mejor individuo si se perdió o mutó durante el crossing
-                population[random.randrange(
-                    0, len(population))] = best_individual["gen"]
+            if (best_individual["gen"] is not None):
+                if (best_individual["gen"] not in population):
+                    # Metemos a la fuerza al mejor individuo si se perdió o mutó durante el crossing
+                    population[random.randrange(
+                        0, len(population))] = best_individual["gen"]
 
-        if (worst_individual["gen"] is not None):
-            if (worst_individual["gen"] not in population):
-                # Metemos a la fuerza al peor individuo si se perdió o mutó durante el crossing
-                population[random.randrange(
-                    0, len(population))] = worst_individual["gen"]
+            if (worst_individual["gen"] is not None):
+                if (worst_individual["gen"] not in population):
+                    # Metemos a la fuerza al peor individuo si se perdió o mutó durante el crossing
+                    population[random.randrange(
+                        0, len(population))] = worst_individual["gen"]
 
-        result = self.calculate_from_population(population)
-        pp(result)
+            result = self.calculate_from_population(population)
+            # Guardamos las estadísticas en memoria para posterior
+            # Todo el registro para la gráfica posterior
+
+            if (best_individual["gen"] is not None):
+                best_individual = best_individual if best_individual["weight"] > result[
+                    "stats"]["best"]["weight"] else result["stats"]["best"]
+            else:
+                best_individual = result["stats"]["best"]
+
+            if (worst_individual["gen"] is not None):
+                worst_individual = worst_individual if worst_individual["weight"] < result[
+                    "stats"]["worst"]["weight"] else result["stats"]["worst"]
+            else:
+                worst_individual = result["stats"]["worst"]
+
+            result["stats"]["best"] = best_individual
+            self.all_records.append(result["stats"])
+            
+            if (len(population) > self.max_population):
+                population = self.poda(population)
+                
+        return self.search_from_index(sorted(result['logs'], key=lambda x: x['weight'], reverse=True)[:max_result])
